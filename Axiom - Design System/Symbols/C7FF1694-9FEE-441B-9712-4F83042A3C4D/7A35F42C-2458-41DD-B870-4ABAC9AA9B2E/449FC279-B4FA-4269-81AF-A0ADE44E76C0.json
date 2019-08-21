@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "927D833C-5663-455D-806B-9EEA6F66F1F3",
+  "do_objectID": "449FC279-B4FA-4269-81AF-A0ADE44E76C0",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5EFE3C1E-2E89-4AE2-8018-1FAD792C3D20",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,14 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 3,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2,
-    "width": 8,
-    "x": 4,
-    "y": 7
+    "do_objectID": "30448D74-BD43-4F2D-BE79-174F646D017F",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "checkbox-background",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 3,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 3,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 3,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 3,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -79,11 +81,10 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "02756F3B-91A3-4D62-B24C-AAFF11FD9DA6",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "18EA48FE-5107-46D9-8426-1F69D7F9BE39",
+    "do_objectID": "FF09AA04-CFD7-433C-8CD4-5263AF64CC15",
     "endMarkerType": 0,
     "fills": [
       {
@@ -91,9 +92,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.86,
+          "green": 0.6191999999999999,
+          "red": 0.1376
         },
         "fillType": 0,
         "isEnabled": true,
