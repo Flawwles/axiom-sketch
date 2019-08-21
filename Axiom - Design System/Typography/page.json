@@ -1,29 +1,11 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "booleanOperation": 0,
-  "changeIdentifier": 73,
+  "_class": "page",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6B591904-125E-4057-AC10-1878D229D317",
+  "do_objectID": "B3AD874E-B082-4335-A0C0-5D7A546029B6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 200,
-    "x": -1290,
-    "y": 321
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,41 +29,45 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -489,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "6DB8C171-D0F7-4DDF-BD1A-85CBDBD665C6"
+      "class": "symbolMaster",
+      "id": "482B40C4-7CE9-4C99-910C-3F7DF9DC662C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2C519AA5-6194-413D-A9EE-8D156B5833AE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1E701E6F-C56D-4FC4-9994-C716F7BA3B68"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "967E4507-CB1E-4B4F-9EAA-501E65BD8CE7"
     }
   ],
-  "name": "Branding/Logo/LogoHorizontal",
+  "name": "Typography",
   "nameIsFixed": true,
-  "originalObjectID": "6B591904-125E-4057-AC10-1878D229D317",
-  "overrideProperties": [
-  ],
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -89,10 +75,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DB6589FD-52F5-4A2F-9E8F-E0D45CAA1349",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -419,
     "guides": [
     ]
   }
