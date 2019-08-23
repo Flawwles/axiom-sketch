@@ -1,0 +1,4295 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "F1ED6210-65FE-4C2D-9892-CB337158E949",
+  "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "5A7DA723-24E0-45C9-A936-31A98C15A1A6",
+        "name": "Background/UI/Carbon/Dark",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2078431372549019,
+                "green": 0.2078431372549019,
+                "red": 0.2078431372549019
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "F9721F08-0BEC-4882-BAFD-0A52D702259C",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "624A4CA4-AD67-4E4E-B3FE-75DD5CE8F91D",
+        "name": "Background/Product/Blast Off/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.196078431372549,
+                "green": 0.5686274509803921,
+                "red": 0.9764705882352941
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5CC87956-632D-485F-BB21-0BCB507FCC8A",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "4FF875BB-7604-433E-BF77-985D6F9D33B1",
+        "name": "Background/Product/Terra Form/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2235294117647059,
+                "green": 0.7725490196078432,
+                "red": 0.5411764705882353
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "8C13E666-05CB-4B4A-84D2-496B1F046658",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "D32E754A-EF69-4066-9FF1-AD2D09D40580",
+        "name": "Text/UI/White Noise/Disabled",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.3,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "3C308284-22DF-4B07-B323-31F37C176BCA",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "432EDB3B-A826-404C-A30E-91432A1F8664",
+        "name": "Background/Product/Blast Off/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1411764705882353,
+                "green": 0.5176470588235293,
+                "red": 0.9294117647058824
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "B5B7BF85-C14A-4E85-86B3-D8B3A5866E8C",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "8E049994-F9E5-4908-AA12-F229AAFD834E",
+        "name": "Text/UI/Carbon/Default",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "C93BA837-A0BF-403E-BF6D-011C594F8D11",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "9B415AB5-8624-427A-912A-B523A42DFAEC",
+        "name": "Text/UI/Accent/Default",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.86,
+                "green": 0.6191999999999999,
+                "red": 0.1376
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "EC01B5E5-84D9-4E50-973F-6DD0A4D0EA9D",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "468CBA95-CBC3-44B5-BE10-2906710FF7E3",
+        "name": "Form/•On Image/Disabled",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7647058823529411,
+                "green": 0.5529411764705883,
+                "red": 0.1215686274509804
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.15,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "B2E9BF17-2BBC-48AD-8E36-CA2EC9647144",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "AC982935-A811-4BC0-BBEA-E3A0F548B678",
+        "name": "Text/UI/White Noise/Subtle",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.75,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "53394DF8-804A-4D35-A874-7F770CADAF1B",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C1EDF4B3-ADC3-4323-AAC1-E98A821F69EB",
+        "name": "Text/UI/White Noise/Default",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "691D72FD-C183-49EE-84D9-33D6A53F39EF",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "E4A2C2B1-89C7-4B7E-B5D9-062FEB8B16B2",
+        "name": "Text/Attention/Success",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3098039215686275,
+                "green": 0.2745098039215687,
+                "red": 0.2823529411764706
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5882352941176473,
+                "green": 0.7450980392156863,
+                "red": 0
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "C9C82E96-2899-4F18-A9AE-CD6594DBB9B4",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "F9BA2832-A803-4555-BAB3-0B538ACD4FF9",
+        "name": "Text/Attention/Error",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3098039215686275,
+                "green": 0.2745098039215687,
+                "red": 0.2823529411764706
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4392156862745099,
+                "green": 0.2823529411764706,
+                "red": 0.9882352941176471
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "21E15B13-5003-4B1E-A1BF-1DAFFF865E33",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "90F879A4-9E73-4DB5-92DF-38024F05FE87",
+        "name": "Background/UI/White Noise/Darker",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3098039215686275,
+                "green": 0.2745098039215687,
+                "red": 0.2823529411764706
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8941176470588235,
+                "green": 0.8941176470588235,
+                "red": 0.8941176470588235
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "C138EF35-7173-4A64-9E96-C23E4C56CF2E",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "08C0BF12-3545-4432-9D89-F820BB2AD5F2",
+        "name": "Text/UI/Carbon/Subtle",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.75,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6D970311-AC9A-4497-ACAD-3163556BD8D1",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "B3826CD8-07A3-4DCA-B409-7D443BCD6601",
+        "name": "Background/UI/Carbon/Darker",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1686274509803922,
+                "green": 0.1686274509803922,
+                "red": 0.1686274509803922
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "DF4257ED-3548-4206-A86D-A35D249657A3",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "57D0925D-5A2C-488A-A140-B763C9106EBC",
+        "name": "Background/Product/Critical Mass/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4784313725490196,
+                "green": 0.3529411764705883,
+                "red": 0.8901960784313725
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "D9070395-83FE-44AE-B1E2-1CB0ACC17A9A",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "B57C84A2-0A3C-48AE-A77A-F3B56272C32D",
+        "name": "Background/UI/White Noise/•Night Theme Opacites/Disabled",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9764705882352941,
+                "green": 0.9411764705882353,
+                "red": 0.9490196078431372
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.05,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "9A5F4E92-0A01-48FB-97C7-80C007790D55",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "5CAFAF3C-1979-4E1B-AB34-163EE7A22592",
+        "name": "Background/Product/Tiny Clanger/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7176470588235294,
+                "green": 0.596078431372549,
+                "red": 0.9607843137254902
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "077B244F-3521-4F22-91C0-E6E8E9DBEED3",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "91B4C004-D6EA-437D-95AB-422B1144A387",
+        "name": "Background/Product/Serenity/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.839,
+                "green": 0.627,
+                "red": 0.5650000000000001
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "70BF198D-C544-426F-8350-08ACE1B6A41A",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "3F213439-E441-430C-92C6-4A59AA5A8D0C",
+        "name": "Background/Product/Paradise Lost/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6549019607843137,
+                "green": 0.4196078431372549,
+                "red": 0.5647058823529412
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "F2471C3C-FD51-4A4B-98D0-587239372A5D",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C6295590-CC46-411A-8BCE-A2B5048646AD",
+        "name": "Background/Product/Primeval Soup/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.09803921568627451,
+                "green": 0.7843137254901961,
+                "red": 0.7843137254901961
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5244DD82-04EC-48DC-8536-7008EF584932",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "8BFAD0EA-BCFD-41E0-89B4-EF8A37001815",
+        "name": "Background/Product/Serenity/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.79,
+                "green": 0.5598466666666667,
+                "red": 0.4898
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5F84DF30-1183-437C-927A-F9D2C7D5682E",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "D8B990E9-047E-47D4-A319-71150E17C289",
+        "name": "Background/UI/Carbon/•Day Theme Opacites/Subtle",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3098039215686275,
+                "green": 0.2745098039215687,
+                "red": 0.2823529411764706
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.15,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "E2DCCC2D-AF7E-4CC4-9314-8EEE331DCB07",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "430FE309-71D0-4351-A0D7-EFFF74C08239",
+        "name": "Text/UI/Carbon/Disabled",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.3,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "7AF254F3-F762-4B6F-A21A-DF28A38BBDDB",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "E9BDF6BE-179D-486E-A2EB-10D3E4E6A900",
+        "name": "Background/Product/Terra Form/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1725490196078431,
+                "green": 0.7215686274509804,
+                "red": 0.4901960784313725
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "DA2CE347-A52D-49C6-B674-78E282F71432",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "65E8CD83-3A1F-4BD1-BAA8-BC40C45A58A9",
+        "name": "Background/UI/White Noise/Dark",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9333333333333333,
+                "green": 0.9333333333333333,
+                "red": 0.9333333333333333
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "C269E03F-3F8C-4616-BC42-54C827044C1A",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "4717F3CC-11EE-413E-A5F6-3D857E47723B",
+        "name": "Background/Social/Twitter/Default",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9490196078431372,
+                "green": 0.6313725490196079,
+                "red": 0.1137254901960785
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "304A7FBB-E9A0-496D-B97A-BEDE45CC0C3A",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "E95D7D90-4FC9-4EE1-87BE-AFB5B1E01B59",
+        "name": "Background/Product/New Horizon/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0.6980392156862745,
+                "red": 0.9490196078431372
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "AEF7623B-C210-4849-BCC8-98292F3BD2A6",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "4986708C-4468-48CF-BC92-F80C00EF0087",
+        "name": "Background/Product/New Horizon/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.0392156862745098,
+                "green": 0.7450980392156863,
+                "red": 1
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "64580A2D-F7A7-450B-8228-9B20D4635951",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "AC20D628-02F2-41D5-B53B-A3223876D1CE",
+        "name": "Background/Product/Moon Lagoon/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7411764705882353,
+                "green": 0.6784313725490196,
+                "red": 0.1411764705882353
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "8CFACAEA-8B54-425C-B7CA-891DB1ABF3E7",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "15BF542F-56D5-4472-A10F-6A372AFADD7B",
+        "name": "Background/Product/Giant Leap/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9019607843137255,
+                "green": 0.803921568627451,
+                "red": 0.3333333333333333
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "90BDC754-CFD6-4C91-8549-0976DD24F1A2",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "30C71453-DC88-4BED-A4AC-AFEA62B06053",
+        "name": "Background/Product/Extraterrestrial/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3529411764705882,
+                "green": 0.7058823529411764,
+                "red": 0.3764705882352941
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "CD9C9A43-3F3C-4F77-A8CD-F3A03C24DB7F",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "537B6DBF-511D-4CAB-AF06-E0C5BBC6E34A",
+        "name": "Background/Product/Outer Limits/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9725490196078431,
+                "green": 0.8392156862745098,
+                "red": 0.4980392156862745
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "9564FDA3-865B-4B7F-A79F-459897323587",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "DD4BDC53-1423-4548-BE8D-7F2FA0018EF6",
+        "name": "Background/Product/Space Invader/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4392156862745098,
+                "green": 0.5686274509803921,
+                "red": 0.1843137254901961
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6420CDE6-39F0-4A22-BE94-C3ABC930C3F1",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "FF66A660-78E9-436D-A2DA-97CE789B8C29",
+        "name": "Background/Product/Electric Dreams/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8,
+                "green": 0.4745098039215686,
+                "red": 0.2313725490196079
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "378619C9-DB0A-4EC1-B330-30C2F8248E01",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "B164FD64-2C31-4441-BB50-BB2347666395",
+        "name": "Background/UI/Carbon/•Day Theme Opacites/Hover",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.04,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "766D65D7-B73C-4C7B-A4D0-364F78960B56",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "3EA2863D-FF2C-4C63-BBC2-EF2B300C3870",
+        "name": "Background/UI/Carbon/•Day Theme Opacites/Active",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.08,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "57F344D8-32B5-46D4-8F8A-A4C2AD032B2C",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C907A2AD-1DF8-47A9-8EA1-2B3D81C44264",
+        "name": "Background/Product/Deep Thought/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7529411764705882,
+                "green": 0.7254901960784313,
+                "red": 0.7333333333333333
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "98CDA887-F8E6-4B36-B1AF-992CFD455859",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C00BCFDB-A932-4FDF-9B94-2433336D848F",
+        "name": "Background/Product/Deep Thought/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7000000000000001,
+                "green": 0.6370000000000001,
+                "red": 0.65485
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "3C63C662-185E-48DA-AA4E-62AB408A1714",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "A7C493BF-D6F8-4F75-97B8-111F6ACB7877",
+        "name": "Background/Product/Crash Course/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3372549019607843,
+                "green": 0.4274509803921568,
+                "red": 1
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "4DE9C3D6-951D-4B26-A3AF-CC5979CA7918",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "9C008E99-9B72-485E-A67E-2249D8A49A59",
+        "name": "Background/Sentiment/Negative/Hover",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7843137254901961,
+                "red": 0.792156862745098
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 10
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3471,
+                "green": 0.3471,
+                "red": 0.89
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "54A4AF3F-A62A-40E4-B33A-4FD88B9F47C4",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "EDC550C6-3E7A-4B46-9D9B-2FD9EB4DA4B8",
+        "name": "Background/Product/Terra Form/Hover",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2784313725490196,
+                "green": 0.8196078431372549,
+                "red": 0.592156862745098
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "033702EF-98E0-4611-A85A-8AAFD3725DC3",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "5A9CE79C-BE93-4FE5-8960-EB05F5F4E5AB",
+        "name": "Background/Sentiment/Positive/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7843137254901961,
+                "red": 0.792156862745098
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 10
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3529411764705883,
+                "green": 0.6313725490196078,
+                "red": 0.2980392156862745
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5957B17B-2A65-42ED-BB17-D0CB3613F269",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "82063AD0-4723-4957-AA99-766BEB3ADEB7",
+        "name": "Background/Sentiment/Negative/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7843137254901961,
+                "red": 0.792156862745098
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 10
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2898723529162198,
+                "green": 0.2898723529162198,
+                "red": 0.8445737670068028
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5CEA682E-246F-493B-9733-6FD352313911",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "44298A3A-CA5E-4127-A85D-C3F276A579D1",
+        "name": "Background/Product/Deep Thought/Hover",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8,
+                "green": 0.8,
+                "red": 0.8
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "253E5122-AD6D-41B9-B002-4E27FF929BBE",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "0BC19A6A-9001-4F38-B527-0763D7E09880",
+        "name": "Background/Social/Facebook/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7843137254901961,
+                "red": 0.792156862745098
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 10
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9490196078431372,
+                "green": 0.4666666666666667,
+                "red": 0.09411764705882353
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "B2D446CA-C5F4-415D-A5E4-3B3E15F745C5",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "8D91130A-2B9D-4EC3-869F-6E9A4234E2B6",
+        "name": "Background/Social/Instagram/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7843137254901961,
+                "red": 0.792156862745098
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 10
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5725490196078431,
+                "green": 0.3098039215686275,
+                "red": 0.7058823529411765
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "572E2B7E-4C4F-4BE3-A09E-3ABC0710F8C7",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "072B3E9D-4E68-4EA0-B01E-39605CFA11B7",
+        "name": "Background/Product/Fantastic Voyage/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3675504795583314,
+                "green": 0.1819920961548682,
+                "red": 0.6561968537414966
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5BA95CB8-65B8-47BE-9463-29D1AB947239",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "DEC322EB-6AB4-41E8-826C-E95B87830CD9",
+        "name": "Background/Sentiment/Negative/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7843137254901961,
+                "red": 0.792156862745098
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 10
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2291,
+                "green": 0.2291,
+                "red": 0.79
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6CF5CCD7-976E-4876-AC8A-981E9D08500D",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "3C5AF23A-8269-4D52-B3F4-6F76F90C27EF",
+        "name": "Background/Sentiment/Positive/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7843137254901961,
+                "red": 0.792156862745098
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 10
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2980392156862745,
+                "green": 0.5803921568627451,
+                "red": 0.2431372549019608
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "E7D783AC-A42D-4ECC-82BD-963CC2C13313",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "7B2ED7BB-FFF9-4F42-8F0F-9239D4E97256",
+        "name": "Background/Product/Giant Leap/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8509803921568627,
+                "green": 0.7529411764705882,
+                "red": 0.2705882352941176
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "F7491BD1-6CB4-4A10-AFCE-459EB76FC5C9",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "BEDA830A-69B3-475F-979E-D990C75BCD05",
+        "name": "Background/Product/Giant Leap/Hover",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9490196078431372,
+                "green": 0.8588235294117647,
+                "red": 0.4
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "03841689-590F-48CB-957E-38E8E38BE465",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "0AB412BF-E745-41BE-ACA1-8A800FEF5206",
+        "name": "Background/Product/New Horizon/Hover",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1921568627450981,
+                "green": 0.7803921568627451,
+                "red": 0.996078431372549
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "9F5C42C7-0E9F-4D15-82D8-6D800A1B907E",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "970CF4A3-05CD-482D-9A0D-8FD3F2F95582",
+        "name": "Background/Product/New Horizon/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.0392156862745098,
+                "green": 0.7450980392156863,
+                "red": 1
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "64580A2D-F7A7-450B-8228-9B20D4635951",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "8B2F224B-08B7-48BC-9EE2-F3DC23388FA5",
+        "name": "Background/Product/Critical Mass/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4784313725490196,
+                "green": 0.3529411764705883,
+                "red": 0.8901960784313725
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "D9070395-83FE-44AE-B1E2-1CB0ACC17A9A",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "E5B3C4DF-FFEB-4699-B0EA-AEEDE2C62BCB",
+        "name": "Background/Attention/Error/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3098039215686275,
+                "green": 0.2745098039215687,
+                "red": 0.2823529411764706
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4392156862745099,
+                "green": 0.2823529411764706,
+                "red": 0.9882352941176471
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "06236BB7-624F-491E-B7CE-2A239FB455CE",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "4C3F6DEA-4CBE-4441-BCF2-5B11B7C8FD2E",
+        "name": "Background/Misc/White",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "02756F3B-91A3-4D62-B24C-AAFF11FD9DA6",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "DDC328E6-05DD-40D0-BC41-4C81BDD7953B",
+        "name": "Background/Product/Moon Lagoon/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6901960784313725,
+                "green": 0.6313725490196078,
+                "red": 0.09803921568627451
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "4C011224-C229-4918-8922-B3DE6B6A674F",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "CFA2E1B0-022F-424D-BCC9-490F3CF09A74",
+        "name": "Background/Product/Paradise Lost/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6,
+                "green": 0.3529411764705882,
+                "red": 0.5058823529411764
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "36B41F4C-C7B6-4C09-A35C-1B1966E49B9B",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "045CC4D4-9122-4D29-8330-ADA36F652A96",
+        "name": "Background/UI/Accent/Default",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.86,
+                "green": 0.6191999999999999,
+                "red": 0.1376
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "FAD6C9BF-D432-4824-84E5-368AB9AAB31E",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "9FAFBF88-4DB0-44EC-8968-717CDA1AB4C1",
+        "name": "Background/UI/Carbon/•Day Theme Opacites/Disabled",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3098039215686275,
+                "green": 0.2745098039215687,
+                "red": 0.2823529411764706
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.05,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "C367F4AC-B585-4749-AF80-F53475D9E0F9",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "19A7D515-8EAA-44C0-831A-563BB79A55D1",
+        "name": "Background/UI/Carbon/•Day Theme Opacites/Overlay Light",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.3,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "CAF8801A-94E5-4BEA-A8B4-3859E3BD88B4",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "A5979722-FF53-42FD-A243-EDAA15F8EB79",
+        "name": "Background/UI/Carbon/Default",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "DC80B34C-FA36-4BFF-9DE3-DB06026ED9EB",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "F50C6063-8965-4BF4-8472-5169DA718DCC",
+        "name": "Background/UI/White Noise/•Night Theme Opacites/Overlay Heavy",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.75,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "1AA48629-1A90-445C-B101-2BF37752EADC",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "5EB6EC60-617F-47B0-AADE-EFA84808CE2E",
+        "name": "Background/UI/White Noise/•Night Theme Opacites/Overlay Light",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.3,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5350C68F-5928-4573-B688-E8BD45D03221",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C6E0456F-006E-4D13-83BC-A6674A48C4E1",
+        "name": "Background/UI/White Noise/•Night Theme Opacites/Subtle",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7647058823529411,
+                "green": 0.5529411764705883,
+                "red": 0.1215686274509804
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.15,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "1D01CB67-E8CE-4E03-BB19-6D37DD14BFEE",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "02A25D8A-22E7-4CFE-9F52-DF55C46C68D8",
+        "name": "Background/UI/White Noise/Default",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "AF7C99B2-DE2F-4D6B-A41A-4C69B29AB23C",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "DA6CF234-33D9-48FD-954C-6BC0BDD9DCEA",
+        "name": "Background/UI/Accent/Active",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3098039215686275,
+                "green": 0.2745098039215687,
+                "red": 0.2823529411764706
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.568627450980392,
+                "red": 0.0862745098039216
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "D7D88AFC-9756-4391-BD4D-2DE1165FAAED",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "3EE06EF2-9800-46E8-A63E-133C42B0CCC5",
+        "name": "Background/Product/Outer Limits/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9725490196078431,
+                "green": 0.8392156862745098,
+                "red": 0.4980392156862745
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "9564FDA3-865B-4B7F-A79F-459897323587",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "FC1380ED-C2FA-4BA7-B42B-049C1C1FE429",
+        "name": "Background/Attention/Highlight",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 1,
+                "red": 0.8431372549019609
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "shadows": [
+            {
+              "_class": "shadow",
+              "blurRadius": 8,
+              "color": {
+                "_class": "color",
+                "alpha": 0.2,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": false,
+              "offsetX": 0,
+              "offsetY": 2,
+              "spread": 4
+            }
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "21FE4F3D-B215-441D-842F-5CBC4CF5EF73",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "029BB464-C21D-4107-BDEA-A86C10872155",
+        "name": "Background/Sentiment/Negative/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7843137254901961,
+                "red": 0.792156862745098
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 10
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2898723529162198,
+                "green": 0.2898723529162198,
+                "red": 0.8445737670068028
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5CEA682E-246F-493B-9733-6FD352313911",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "94076567-C8A3-444A-8ADF-AEB9EBD6CD96",
+        "name": "Background/Product/Deep Thought/Hover",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8,
+                "green": 0.8,
+                "red": 0.8
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "253E5122-AD6D-41B9-B002-4E27FF929BBE",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "228B26E5-C9B2-495F-A1DC-97D34421731B",
+        "name": "Background/UI/Carbon/Dark",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2078431372549019,
+                "green": 0.2078431372549019,
+                "red": 0.2078431372549019
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "F9721F08-0BEC-4882-BAFD-0A52D702259C",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "9AF3A272-C839-4B13-81D9-4FC4130C425F",
+        "name": "Background/Sentiment/Positive/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7843137254901961,
+                "red": 0.792156862745098
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 10
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3529411764705883,
+                "green": 0.6313725490196078,
+                "red": 0.2980392156862745
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5957B17B-2A65-42ED-BB17-D0CB3613F269",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C904E398-5889-4038-B786-C70E061C6C0E",
+        "name": "Text/UI/Carbon/Default",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "C93BA837-A0BF-403E-BF6D-011C594F8D11",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "1D206206-0921-446B-ADB0-9885B918F34B",
+        "name": "Text/UI/White Noise/Disabled",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.3,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "3C308284-22DF-4B07-B323-31F37C176BCA",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "15DB493A-8599-4906-AAFA-FBF0E3BDC2FE",
+        "name": "Background/Product/Fantastic Voyage/Hover",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4166516666666664,
+                "green": 0.2343,
+                "red": 0.71
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "F22B2C24-63EC-441F-833F-FD39765960CD",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "506C65D3-7AAB-455A-A23C-64BFD4987773",
+        "name": "Background/Product/Electric Dreams/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8,
+                "green": 0.4745098039215686,
+                "red": 0.2313725490196079
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "378619C9-DB0A-4EC1-B330-30C2F8248E01",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "289DC428-D55C-4051-9975-4404620CC30E",
+        "name": "Background/UI/White Noise/•Night Theme Opacites/Subtle",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7647058823529411,
+                "green": 0.5529411764705883,
+                "red": 0.1215686274509804
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.15,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "1D01CB67-E8CE-4E03-BB19-6D37DD14BFEE",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "6D1D181C-0006-4394-B767-A1DFE5A9CEC7",
+        "name": "Background/Product/Giant Leap/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9019607843137255,
+                "green": 0.803921568627451,
+                "red": 0.3333333333333333
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "90BDC754-CFD6-4C91-8549-0976DD24F1A2",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "AE930278-BC67-4F25-831D-6CADC65E445D",
+        "name": "Background/Product/Blast Off/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.196078431372549,
+                "green": 0.5686274509803921,
+                "red": 0.9764705882352941
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5CC87956-632D-485F-BB21-0BCB507FCC8A",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "177B8206-BBCD-4FC2-AD11-FE598E6074D7",
+        "name": "Background/Product/New Horizon/Default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.0392156862745098,
+                "green": 0.7450980392156863,
+                "red": 1
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "64580A2D-F7A7-450B-8228-9B20D4635951",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    }
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "2157D680-21D5-4521-925F-0A2D6494213B",
+        "name": "Carbon/Body/Normal/Subtle",
+        "value": {
+          "_class": "style",
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.75
+          },
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Roboto-Regular",
+                  "size": 13
+                }
+              },
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "maximumLineHeight": 20,
+                "minimumLineHeight": 20,
+                "paragraphSpacing": 8
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "C9727AF7-5E76-4331-8F5D-0C8AD5040CB5",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "532796B0-C904-4A2D-9AB1-FBB2A7FC6CB1",
+        "name": "Carbon/Headline/Strong/Standard",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Roboto-Medium",
+                  "size": 22
+                }
+              },
+              "kerning": -0.01999999955296516,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "maximumLineHeight": 28,
+                "minimumLineHeight": 28
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "A0AFAA9E-DFA4-41DA-B295-B23F13E2AB34",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "A02B1C5D-DF90-417D-86A2-A5237BBF5027",
+        "name": "Carbon/Headtitle/Normal/Standard",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Roboto-Regular",
+                  "size": 17
+                }
+              },
+              "kerning": -0.02,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "maximumLineHeight": 24,
+                "minimumLineHeight": 24
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "19144D83-9DD3-44CA-A313-4B37F507AAA4",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "91AF7724-8022-4CF1-856C-0FD133ED356D",
+        "name": "Carbon/Headline/Normal/Subtle",
+        "value": {
+          "_class": "style",
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.75
+          },
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Roboto-Light",
+                  "size": 22
+                }
+              },
+              "kerning": -0.01999999955296516,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "maximumLineHeight": 28,
+                "minimumLineHeight": 28
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "02EB5890-7515-4F6C-AC01-3593659ED101",
+      "sourceLibraryName": "Axiom - Design System",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "AA7439EE-7B18-4897-8AC3-E6830B8A15AA",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "6CF84E2A-E82A-4DB3-AE3F-8B520C7357F5",
+        "name": "Carbon/Headtitle/Strong/Secondary",
+        "value": {
+          "_class": "style",
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.75
+          },
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Roboto-Bold",
+                  "size": 17
+                }
+              },
+              "kerning": -0.02,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "maximumLineHeight": 24,
+                "minimumLineHeight": 24
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "299CC7B6-DE80-429C-919B-740CDA5CB385",
+      "sourceLibraryName": "Beta - BW Axiom Symbol Library",
+      "symbolPrivate": false
+    }
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "57.1",
+    "build": 83088,
+    "version": 119
+  },
+  "pages": [
+    "Title",
+    "Analytics",
+    "Product",
+    "Vizia - Templates",
+    "ι Vizia",
+    "ι Vizia Full screen"
+  ],
+  "userInfo": {
+    "com.ArielSelig.ReactDraw": {
+      "rd_pins": "{\"pins\":{}}"
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
