@@ -74,6 +74,39 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+          "blue": 0.5091666666666667,
+          "green": 0.65,
+          "red": 0
+        },
+        "name": "Success/Active"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5882352941176473,
+          "green": 0.7450980392156863,
+          "red": 0
+        },
+        "name": "Success/Default"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6353333333333333,
+          "green": 0.8,
+          "red": 0.03999999999999995
+        },
+        "name": "Success/Hover"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
           "blue": 0,
           "green": 1,
           "red": 0.8431372549019609
@@ -112,39 +145,6 @@
           "red": 0.188235294117647
         },
         "name": "Info/Hover"
-      },
-      {
-        "_class": "MSImmutableColorAsset",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.5091666666666667,
-          "green": 0.65,
-          "red": 0
-        },
-        "name": "Success/Active"
-      },
-      {
-        "_class": "MSImmutableColorAsset",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.5882352941176473,
-          "green": 0.7450980392156863,
-          "red": 0
-        },
-        "name": "Success/Default"
-      },
-      {
-        "_class": "MSImmutableColorAsset",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.6353333333333333,
-          "green": 0.8,
-          "red": 0.03999999999999995
-        },
-        "name": "Success/Hover"
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -1097,6 +1097,39 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        },
+        "name": "Sentiment/Netural/Active"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7529411764705882,
+          "green": 0.7254901960784313,
+          "red": 0.7333333333333333
+        },
+        "name": "Sentiment/Netural/Default"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7019607843137254,
+          "green": 0.6352941176470588,
+          "red": 0.6549019607843137
+        },
+        "name": "Sentiment/Netural/Hover"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
           "blue": 0.2980392156862745,
           "green": 0.5803921568627451,
           "red": 0.2431372549019608
@@ -1601,6 +1634,27 @@
       {
         "_class": "color",
         "alpha": 1,
+        "blue": 0.5091666666666667,
+        "green": 0.65,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5882352941176473,
+        "green": 0.7450980392156863,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6353333333333333,
+        "green": 0.8,
+        "red": 0.03999999999999995
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
         "blue": 0,
         "green": 1,
         "red": 0.8431372549019609
@@ -1625,27 +1679,6 @@
         "blue": 0.9098039215686274,
         "green": 0.6705882352941172,
         "red": 0.188235294117647
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
-        "blue": 0.5091666666666667,
-        "green": 0.65,
-        "red": 0
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
-        "blue": 0.5882352941176473,
-        "green": 0.7450980392156863,
-        "red": 0
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
-        "blue": 0.6353333333333333,
-        "green": 0.8,
-        "red": 0.03999999999999995
       },
       {
         "_class": "color",
@@ -2248,6 +2281,27 @@
         "blue": 0.3471,
         "green": 0.3471,
         "red": 0.89
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8,
+        "green": 0.8,
+        "red": 0.8
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7529411764705882,
+        "green": 0.7254901960784313,
+        "red": 0.7333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7019607843137254,
+        "green": 0.6352941176470588,
+        "red": 0.6549019607843137
       },
       {
         "_class": "color",
