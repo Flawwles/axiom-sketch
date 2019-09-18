@@ -9,7 +9,7 @@
     "red": 0.2470588235294118
   },
   "booleanOperation": 0,
-  "changeIdentifier": 793,
+  "changeIdentifier": 795,
   "clippingMaskMode": 0,
   "do_objectID": "E427053C-2426-4759-A027-8DDB9EC8B2DD",
   "exportOptions": {
@@ -39,11 +39,12 @@
     "thickGridTimes": 2
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "FF3DAD87-14BB-40C1-85B3-7BE2377B51B1"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 2
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,6 +69,7 @@
       "id": "5C4C7713-0E61-4DEB-853A-4238692B49FE"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Buttons/Night/1. Rectangle/2. Secondary/2. Icons/Right/Medium/Hover",
   "nameIsFixed": true,
   "originalObjectID": "4213F891-AFF8-42AD-BFD2-943CF4EC5219",
@@ -93,6 +95,8 @@
       "overrideName": "D5CB42C4-C6DC-473E-A5B9-454DC73BFD28_stringValue"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -100,9 +104,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "79895F23-C07A-4C1E-AB6A-FF2D32E432A9",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

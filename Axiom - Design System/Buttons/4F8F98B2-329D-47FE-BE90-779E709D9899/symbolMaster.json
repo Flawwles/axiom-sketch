@@ -77,6 +77,7 @@
       "id": "DC704B2E-697D-4C57-86EA-71772E647FAF"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Buttons/Night/2. Circle/4. Quaternary/Icon/Medium/Hover",
   "nameIsFixed": true,
   "originalObjectID": "7F4ECC0A-9B58-4DD7-8C77-CC5F1C912CB9",
@@ -87,6 +88,8 @@
       "overrideName": "61E54242-D3F4-4923-8B45-B108D553BB9C_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -94,9 +97,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "FE0626DA-723E-4661-90EB-E5FF5582074F",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

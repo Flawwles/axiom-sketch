@@ -77,6 +77,7 @@
       "id": "17DA2D3C-51EA-4139-9DF0-11B4605A2D34"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Buttons/Night/2. Circle/2. Secondary/Text/Large/Disabled",
   "nameIsFixed": true,
   "originalObjectID": "7F4ECC0A-9B58-4DD7-8C77-CC5F1C912CB9",
@@ -97,6 +98,8 @@
       "overrideName": "6592553C-AD38-4644-B941-28D44310A3F4_textStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -104,9 +107,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "E9B03D88-75ED-47F3-A061-937897883329",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
