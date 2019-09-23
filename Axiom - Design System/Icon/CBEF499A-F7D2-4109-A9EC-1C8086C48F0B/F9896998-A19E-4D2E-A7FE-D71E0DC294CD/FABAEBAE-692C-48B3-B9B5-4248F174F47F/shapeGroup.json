@@ -58,13 +58,13 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "6D970311-AC9A-4497-ACAD-3163556BD8D1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "6F6324DB-9E5F-497F-BD0A-04AF52E15876",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -75,7 +75,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "9DC46AF2-F815-49DA-AC0F-C2DD8D108765",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -86,7 +85,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "C7F232A9-5991-4970-A652-EC99412F5373",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -94,7 +92,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "8AF1D29E-046C-417C-BE56-14337FE38F0C",
       "opacity": 1
     },
     "do_objectID": "BC1805ED-C2E3-4498-AAC3-69F7C8E313D6",
@@ -104,7 +101,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.75,
           "blue": 0.2470588235294118,
           "green": 0.2470588235294118,
           "red": 0.2470588235294118
@@ -159,7 +156,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
-  "windingRule": 0
+  "windingRule": 1
 }
