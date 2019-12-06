@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "468DDEA0-1202-4BB7-80E3-9E63B5DE1774",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 2
@@ -72,6 +71,7 @@
       "id": "1A5F8D70-FB1C-4BBB-91E7-C1101FFBD236"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/hootsuite-impact-bundle-graph-2thirds_x_2thirds",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -81,6 +81,8 @@
       "overrideName": "D8D9AC17-960A-47BB-9D88-D150EFB13168_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,8 +90,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4F276F31-A198-46C3-835C-F24B0F3851AF",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

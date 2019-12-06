@@ -5,7 +5,6 @@
   "do_objectID": "6F196295-C941-4B46-A299-08D813673C0B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "83A309E8-A5A9-4A3D-94DD-D0CA2D396644",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "5213BC51-A9E4-4589-AA35-97B3E5099081",
     "height": 20,
     "width": 20,
     "x": 118,
@@ -47,6 +45,7 @@
       "id": "71AC9019-D7A3-462C-BD91-92960CAC6FDA"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Instagram",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -55,9 +54,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "9D5A6958-7413-471B-B17D-E5D5F4CFABC6",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

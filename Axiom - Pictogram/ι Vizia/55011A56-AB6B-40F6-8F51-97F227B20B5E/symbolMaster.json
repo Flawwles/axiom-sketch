@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "FBB9D364-DA2D-4411-85E7-773FEB3B2E47",
     "gridSize": 1,
     "isEnabled": false,
     "thickGridTimes": 2
@@ -64,6 +63,7 @@
       "id": "9B0C285F-9C38-4AB7-9999-73DEA2D6FDEB"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/salesforce-report-table-third_x_third",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -158,6 +158,8 @@
       "overrideName": "620E494F-E54C-4CCD-8D56-74C9AF2DE964_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -165,8 +167,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "3826A6F5-A152-426E-8C5D-699EF39F0406",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

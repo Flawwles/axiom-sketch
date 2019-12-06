@@ -5,7 +5,6 @@
   "do_objectID": "00DB59B6-BBED-4CC6-96BA-0CC76112D4A3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FD2031DB-5C34-400B-B08A-D5FA9D8B9046",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "90C15480-73C1-4855-8DD7-AD78CE770AC8",
     "height": 120,
     "width": 216,
     "x": 0,
@@ -55,6 +53,7 @@
       "id": "AABD49B4-42B9-4207-9BB4-A740E466D9D0"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Tree Map",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -63,9 +62,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "6EBDEDD6-A78A-4A0D-B47B-57485273E57E",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

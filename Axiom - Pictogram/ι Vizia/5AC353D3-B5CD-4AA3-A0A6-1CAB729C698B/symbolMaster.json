@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "BDBD58E3-5C0E-4238-AFAD-515BD5402E60",
     "gridSize": 1,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -72,6 +71,7 @@
       "id": "6A616EF8-6FEC-4796-98F9-604F22C7D370"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/falcon-bundle-chart-instagram-fixed-date-half_x_half",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -81,6 +81,8 @@
       "overrideName": "E21754AA-5A03-44EE-A616-0FCB77FCA3B7_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,8 +90,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4C788CC7-8952-41E7-BD40-A2E47AB83CA4",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

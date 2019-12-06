@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "866D8637-9007-4588-934F-865A378917B8",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "66059FF1-2E64-4B3B-BE4B-3B65F9F7B0DA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A50E5449-3E11-47A8-B114-E0ED02ECB283",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BF55C596-E1E0-4A05-9EA3-998E29473A61",
     "height": 120,
     "width": 216,
     "x": 329,
@@ -41,7 +38,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0CBE8BD1-B448-4FE0-8F86-CDAB2C5BF71B",
     "guides": [
     ]
   },
@@ -77,6 +73,7 @@
       "id": "67D83BC0-793B-4823-B84F-9DBD022D4255"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Vizia/template - 005",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -116,6 +113,8 @@
       "overrideName": "CC9E10EE-878A-4DD0-A419-331FC1B93A94_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -123,9 +122,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "8E9BA38D-1414-47A8-B13F-D88EC59F3DE5",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -133,7 +170,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "4D576ED6-9B3E-402B-8020-10A1AABC621C",
     "guides": [
     ]
   }

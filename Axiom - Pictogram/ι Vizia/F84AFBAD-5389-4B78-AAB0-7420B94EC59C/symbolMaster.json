@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "1CBEE806-06D7-4B7B-951A-68BCCD0B5994",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -72,6 +71,7 @@
       "id": "15F4DCAB-B8CD-495B-831B-4DDFEFCDF137"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/falcon-bundle-chart-facebook-rolling-date-full_x_2thirds",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -81,6 +81,8 @@
       "overrideName": "53B465A9-1526-4D01-8216-9AD0136AC4CE_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,8 +90,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "213E70DE-5CFC-41FE-983D-B0518500CA57",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

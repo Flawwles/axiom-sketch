@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "8020F691-AD3D-4E3A-9788-814D7A131D22",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "11F56B26-86C3-4B56-80F8-55923274D4CC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A599BA73-B141-4A7B-8BCA-8A2CC1BF310C",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,7 +31,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C6291271-FDBA-43BF-9304-B885043AB149",
     "height": 120,
     "width": 216,
     "x": -414.9999999999999,
@@ -41,7 +38,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "35AD6C1A-87B5-4B17-826F-6A4C9AC2CD81",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -55,7 +51,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0230314F-3353-4CB0-9A39-DB01A6AA94C5",
     "guides": [
     ]
   },
@@ -82,8 +77,11 @@
       "id": "6957DBE5-8A6E-43AD-83F7-18534E7B3DA9"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/URL/Video URL",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -91,16 +89,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "5EF49B52-00EF-4DAF-9A0F-4441A1DA4664",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "460F7BA2-5A03-4D9C-8E24-B88BA60B0F62",
     "guides": [
     ]
   }

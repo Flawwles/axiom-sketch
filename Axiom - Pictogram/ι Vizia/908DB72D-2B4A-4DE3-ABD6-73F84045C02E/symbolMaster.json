@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "ACDA8A95-ACE3-486A-A39E-E528A0870985",
     "gridSize": 1,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -72,6 +71,7 @@
       "id": "EE4C38AA-61D2-4404-A694-980285991F36"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/salesforce-report-chart-half_x_half",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -161,6 +161,8 @@
       "overrideName": "7CCF0DA2-5B23-4DD8-84BB-9EC7AECB0D25_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -168,8 +170,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "455EC4FC-1AF3-41D8-B06C-55E73D584075",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -40,7 +40,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "47765FFC-E9C1-4DAE-9733-1E365994682F",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -113,6 +112,7 @@
       "id": "E6EB6820-C55C-4F36-8BBF-F98DF9DD03DD"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/topic_bubble",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -217,6 +217,8 @@
       "overrideName": "7DBFE951-91FB-4F3E-93EF-1281B0FBA85C_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -224,8 +226,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "2EBBA3D8-64CA-47C7-9427-F7067EF69DCE",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

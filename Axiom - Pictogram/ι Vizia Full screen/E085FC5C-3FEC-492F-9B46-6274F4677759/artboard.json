@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "D7447AB8-6CDF-440F-8666-8192CE5EA98D",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "E085FC5C-3FEC-492F-9B46-6274F4677759",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E1F0860C-7187-4518-ADB2-D1F38713706A",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,7 +31,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "42457230-3A1A-4546-B14B-E62E08EF8B80",
     "height": 120,
     "width": 216,
     "x": -654.9999999999999,
@@ -41,7 +38,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "5D28CA4A-FA9E-4635-8F87-CE33456684A5",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -55,7 +51,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3D2C1D2A-2374-4564-82D9-82649C19A8B2",
     "guides": [
     ]
   },
@@ -90,8 +85,11 @@
       "id": "EE1D4CA8-B609-407F-B228-104ECA502B2C"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/Chloropleth/EU Country Map",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -99,16 +97,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "F9618CF2-CAE3-4A82-88A1-DD97E581E7E2",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C746C950-3A46-408B-8DE2-8FA2ABD4E85E",
     "guides": [
     ]
   }

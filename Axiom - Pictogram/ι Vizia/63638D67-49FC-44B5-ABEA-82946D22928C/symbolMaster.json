@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "6D29ECA1-DF73-4700-BA85-2C1B407FA157",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -72,6 +71,7 @@
       "id": "BE967964-CC28-493F-9BCC-7745FC68073B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/topic_stream_graph-2thirds_x_third",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -171,6 +171,8 @@
       "overrideName": "E6C5F6EB-5FA7-463B-B628-36B54F7D2C62_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -178,8 +180,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4CA31BF6-06AD-4FCF-B44D-496FF9B86CEC",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

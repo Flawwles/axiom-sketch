@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "B6C29FDE-FA8E-4A2C-9918-F96DA8FAF76A",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 2
@@ -72,6 +71,7 @@
       "id": "8AD6C101-6550-414A-A720-A9AB35248B50"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/google-sheets-charts-2thirds_x_2thirds",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -96,6 +96,8 @@
       "overrideName": "E9E17F69-4533-4D1C-94C1-76E42D0CB456_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -103,8 +105,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "7DC3592C-2B76-42B3-AC90-C790EBAB1145",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

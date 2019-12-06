@@ -5,7 +5,6 @@
   "do_objectID": "5FB4D383-9002-4C2C-8AB7-A878BA007EF8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5774FA08-BD7C-420D-A40E-B47DFE7A6BA2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D5133232-12EB-4710-AE45-0A524982ED00",
     "height": 15,
     "width": 15,
     "x": 87,
@@ -43,6 +41,7 @@
       "id": "D7A69B43-7A83-4B43-9033-3D9796E869E3"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Facebook",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -54,16 +53,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "35165B72-7D1D-4995-A7B1-608AE53ACD6C",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "43F50915-4AE2-4F33-957D-E6973179F9E5",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

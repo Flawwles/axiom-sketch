@@ -40,7 +40,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "962EE8AE-089B-41CA-9916-DCEE7155A8F9",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -85,6 +84,7 @@
       "id": "4103C9BA-95EB-46C1-A07C-4854C195C7F6"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/google-sheets-number",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -129,6 +129,8 @@
       "overrideName": "1DA5301F-35F7-41E0-A2A7-0216D46A6724_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -136,8 +138,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "39F22256-4771-4BB8-893B-6E9DBDE24282",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

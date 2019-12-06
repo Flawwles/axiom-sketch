@@ -5,7 +5,6 @@
   "do_objectID": "5B229DD9-6E64-4008-8AEC-4B6B13A25E19",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D8C93BF6-728D-488F-BF56-96DAEBD49FCA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "173F16F6-5AD5-4804-8B6D-0C3B210E6D29",
     "height": 6,
     "width": 6,
     "x": 76,
@@ -39,6 +37,7 @@
       "id": "318B8336-0EBC-4D8E-ADB7-2C5B87D2D288"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Moon Icon",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -50,16 +49,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "97B93C03-4F54-4231-9FBA-9300053DC6BE",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "2B9F0BE6-A59F-4133-94AD-867B0A87044A",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

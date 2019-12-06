@@ -5,7 +5,6 @@
   "do_objectID": "A267ED74-3AC1-424B-B222-351256302089",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0F4D2F77-EDD3-414A-975B-4EB0D482F0BB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "99AC1828-FE0F-4A73-AD0C-EA6705E56C45",
     "height": 27,
     "width": 27,
     "x": -5,
     "y": -3
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "7080FBD1-3E27-4A3A-A51F-65EA65AE2201"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -40,6 +37,7 @@
       "id": "587C24B6-F05B-457D-A143-8EFBCA389B07"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "• Overrides/Background/UI/Carbon/Default",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -48,9 +46,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "B70D4AC3-1DF3-4DB1-A2AE-6A7013E3B3FF",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

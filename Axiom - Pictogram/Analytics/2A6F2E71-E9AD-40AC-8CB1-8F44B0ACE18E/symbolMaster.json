@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "481E827E-ED97-45EF-BDB5-EA9C32591AAB",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -73,7 +72,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 13.41666666666667,
-    "do_objectID": "388EC0E9-6ABC-44D5-806A-E076E5B5FF73",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -86,6 +84,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 216
   },
+  "maintainScrollPosition": false,
   "name": "Analytics/tweets",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -325,6 +324,8 @@
       "overrideName": "4D1668F7-6567-4C33-ADBC-85489DBF7DD7_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -332,8 +333,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "353267C1-9843-4887-A25F-15D191766556",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

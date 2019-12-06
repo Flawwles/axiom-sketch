@@ -5,7 +5,6 @@
   "do_objectID": "9E7D559A-C223-4F4A-8D69-8B62C14A2340",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CA487B3D-901D-4C0A-9AB4-316E5A13A06B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "77C4FCDC-CB49-4DE3-80B1-F40631755961",
     "height": 120,
     "width": 216,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "507CFE33-21AE-4E92-94BE-6935518F5310"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -48,6 +45,7 @@
       "id": "A2AA7305-058C-4E4B-B5E0-63099262DA50"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "3D Globe",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -56,9 +54,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "B00BF7D4-934F-433A-8E11-0263C81EE252",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "1CCF7C25-5369-4F1B-8759-3E58691127B6",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -73,7 +72,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 13.41666666666667,
-    "do_objectID": "57EFE3DE-DCC1-42E5-A29C-39FA185C35D0",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -86,6 +84,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 216
   },
+  "maintainScrollPosition": false,
   "name": "Analytics/facebook-posts",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -225,6 +224,8 @@
       "overrideName": "B49DA051-AE53-4240-A95F-66B5E2F6FD0E_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -232,8 +233,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "5F19815E-7B4D-41E4-AFAD-329A78039F99",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

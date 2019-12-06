@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "D2EE65EB-0306-4BBD-B295-49051BA914DE",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "744F5021-305D-4FC9-9AB2-D313576A99C9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "917AB89C-2E75-4674-9453-736BA6168FC2",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,7 +31,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C985DC35-FE92-4400-9418-79AFC2C6036F",
     "height": 120,
     "width": 216,
     "x": 1025,
@@ -41,7 +38,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "A7908E75-0716-4EE0-AF34-B45F5ED4BAA2",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -55,7 +51,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "30A81E74-67C0-4513-A91C-883960C75CF1",
     "guides": [
     ]
   },
@@ -82,8 +77,11 @@
       "id": "786E1F9D-FDCF-4B28-A51E-3226C382FC24"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/Charts/Frequency Heatmap",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -91,16 +89,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "9C218FAC-53F6-4CD9-B12C-D5D6872F61DB",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "73C4FCB6-934D-4E56-8CD5-0AB102786FCB",
     "guides": [
     ]
   }

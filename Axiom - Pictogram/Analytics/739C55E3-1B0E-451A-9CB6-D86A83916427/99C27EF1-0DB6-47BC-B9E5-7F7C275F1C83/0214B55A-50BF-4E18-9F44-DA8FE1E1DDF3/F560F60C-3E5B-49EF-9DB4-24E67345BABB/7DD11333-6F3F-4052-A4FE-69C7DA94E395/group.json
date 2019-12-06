@@ -5,7 +5,6 @@
   "do_objectID": "7DD11333-6F3F-4052-A4FE-69C7DA94E395",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3A9353C6-D9C0-497C-A5E8-788539F3FCFF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0D2AEFED-C6BB-45FF-AF28-DF155A29880D",
     "height": 27,
     "width": 14,
     "x": 0,
@@ -39,6 +37,7 @@
       "id": "9B1E20BE-593B-4F88-A51B-6872C8E1C11A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Symbols/Pictograms/Female/Carbon",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -50,16 +49,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "1D892E08-7D60-46EA-A2E6-686A7326CA75",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 7.5,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "604AE26E-10E0-4C1A-9EFD-ABB8E0436765",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

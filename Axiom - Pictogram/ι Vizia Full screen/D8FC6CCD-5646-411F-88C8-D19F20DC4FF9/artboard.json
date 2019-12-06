@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "E578AFA7-1787-42CB-A926-C3D53174074D",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "D8FC6CCD-5646-411F-88C8-D19F20DC4FF9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B7845455-0DD5-4811-8805-2CEA4527B018",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,7 +31,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1C93BFCD-E220-432A-B98F-97C1B213A4B5",
     "height": 120,
     "width": 216,
     "x": -414.9999999999999,
@@ -41,7 +38,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "0429245A-1AA0-40B6-AABD-AADBA6F58DB1",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -55,7 +51,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "8658E7E7-7960-4BA4-B8D8-F0B762595008",
     "guides": [
     ]
   },
@@ -90,8 +85,11 @@
       "id": "D0A90CC1-CD0B-4B63-B8B5-74041CEF6730"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/Globes/Influencers Globe",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -99,16 +97,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "5DC31053-0832-4F3B-B6BF-3D920F3D5A00",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3F81F305-FE62-4400-BD59-4371510E8970",
     "guides": [
     ]
   }

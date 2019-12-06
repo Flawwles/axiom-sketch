@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "534F442D-28F0-4FE6-9085-CEA9B53908C2",
     "gridSize": 1,
     "isEnabled": false,
     "thickGridTimes": 2
@@ -68,6 +67,7 @@
       "id": "0CF08AD3-AD71-49D9-883C-94FB08FD337F"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/annotation_image-third_x_third",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -137,6 +137,8 @@
       "overrideName": "442D7814-24FB-4BEC-B06D-A52D3F3073A5_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -144,8 +146,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "6620080F-51B6-4700-AC8D-5078D6E72A2A",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

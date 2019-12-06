@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "72CBEBCE-F9E3-46ED-88B8-557ACFBBD5BB",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -104,6 +103,7 @@
       "id": "7C1AA6C3-F185-4BE5-8EF7-3F1405FF309B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/buzzsumo-feed-third_x_full",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -393,6 +393,8 @@
       "overrideName": "D99D63A9-05D3-476C-AA9F-742AC5DABE66_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -400,8 +402,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "77E1B0C2-0760-4BD7-BF39-738BB3253F29",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

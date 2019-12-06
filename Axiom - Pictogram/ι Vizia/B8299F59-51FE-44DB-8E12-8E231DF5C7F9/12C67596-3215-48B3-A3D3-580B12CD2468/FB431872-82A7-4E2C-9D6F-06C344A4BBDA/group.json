@@ -5,7 +5,6 @@
   "do_objectID": "FB431872-82A7-4E2C-9D6F-06C344A4BBDA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C75251AB-D0A6-4EC1-A193-24B0343F4809",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1A6804D8-85E6-4EDE-99FC-8C781BE61C8F",
     "height": 107.5,
     "width": 160.5,
     "x": -61,
@@ -139,6 +137,7 @@
       "id": "D346449A-9B77-4766-A266-1B3FD8B3EFBC"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Mountains",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -150,16 +149,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "BD7A0FA0-2AA2-42A2-BC80-2B498ADDB785",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "74442DEE-A985-4E0F-9A29-323C202A1A57",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

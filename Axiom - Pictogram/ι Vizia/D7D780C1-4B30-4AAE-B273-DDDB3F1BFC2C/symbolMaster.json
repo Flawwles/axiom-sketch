@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "8F79FF42-D311-4CE9-8A86-B2AE93068EB0",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "D7D780C1-4B30-4AAE-B273-DDDB3F1BFC2C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2618C810-0D45-4441-964C-45D4657415C8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "74AEF17A-A26D-4E52-A54A-98E4296BA9EC",
     "height": 80,
     "width": 144,
     "x": -5267,
@@ -34,14 +31,12 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "7C9E838B-94C5-43CB-A10F-7EBE327622D4",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 2
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "F2B23FC9-FBCB-4A2A-BA88-C1059EBD7F00"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -49,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "238BAFEA-5F03-4247-B3F1-CDFBFA000008",
     "guides": [
     ]
   },
@@ -73,6 +67,7 @@
       "id": "5C7DFD3A-6470-4908-B12B-53AB1646C55E"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/stacked-sentiment-chart-2thirds_x_2thirds",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -157,6 +152,8 @@
       "overrideName": "57E01BEE-7E68-42AE-9BE1-5999189DA51B_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -164,9 +161,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "FD6A2BB0-2AF1-43B5-89EA-15091B73FF2C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -174,7 +209,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C254498B-742A-4B08-B765-DBD0C05E9E50",
     "guides": [
     ]
   }

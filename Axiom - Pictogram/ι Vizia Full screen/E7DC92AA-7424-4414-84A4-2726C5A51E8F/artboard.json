@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "FF715B2A-370C-4255-8840-B62DC3F0BB1D",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "E7DC92AA-7424-4414-84A4-2726C5A51E8F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "66D9B58B-134D-40AE-961C-7C37475377D3",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,7 +31,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1C1E805D-0C77-4AB5-8F19-D7CF42878962",
     "height": 120,
     "width": 216,
     "x": -654.9999999999999,
@@ -41,7 +38,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "F084D382-83D1-4087-A457-112E87706FE0",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -55,7 +51,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "B26EBF49-04C2-4577-9E9F-67DF412BF5C9",
     "guides": [
     ]
   },
@@ -86,8 +81,11 @@
       "id": "6BE168C3-851B-49EB-9A45-5BE0951E2399"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/Google Sheets/Number",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -95,16 +93,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "320F55D5-9FB8-406D-9B7D-3ABEA28BF134",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "44B892A7-FC27-4019-9FBD-DB1ECAE9F6A8",
     "guides": [
     ]
   }

@@ -5,7 +5,6 @@
   "do_objectID": "D5DE2FCF-DFDD-4CFF-9F0F-AC08643067BA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "40E21B7B-5F90-49B4-9602-744B5C3F534C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F3D631F3-745F-4BFA-A01D-8BCA1E64C84F",
     "height": 98,
     "width": 98,
     "x": -1.368739587782088,
@@ -47,6 +45,7 @@
       "id": "A796846D-C239-4B2A-8957-4BA28BEE390D"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Pie chart",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -55,9 +54,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "19A804A8-AB83-4C37-8D7B-F44F6C197B66",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

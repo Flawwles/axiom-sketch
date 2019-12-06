@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "C974F932-5E22-42E4-9C37-236CA73C153D",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "2FE757EF-8165-49D6-9563-9D9A2EB95E2E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DF473C7E-E4E2-4372-A74A-07772546E0AC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "73D00BC2-05FE-476C-A559-4FED5E43501F",
     "height": 120,
     "width": 216,
     "x": 1261,
@@ -34,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "E5ADA20E-3B33-478C-A2CD-D4EF98EACD74",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -48,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "4AD56292-AC4D-4827-B4AC-2AC1256439E1",
     "guides": [
     ]
   },
@@ -72,6 +67,7 @@
       "id": "841D198E-1D10-4D85-BC0A-BE8B3E67E992"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Analytics/word-cloud",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -141,6 +137,8 @@
       "overrideName": "F52E544B-72C0-4587-A776-20191654A077_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -148,9 +146,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "2078A9C8-F4BF-4B21-A8A7-51A360375DD5",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -158,7 +194,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "CB76176C-EBB3-4F40-9CF1-CA21BDC64455",
     "guides": [
     ]
   }

@@ -31,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "77D03D5D-1DFA-4D47-AA7C-ED8434856834",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -96,6 +95,7 @@
       "id": "20E1C6DB-5065-42B1-8E04-EFBA16907060"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/eu_country_map-full_x_third",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -950,6 +950,8 @@
       "overrideName": "61564FF2-FA7A-44C8-973B-F554238E12B6_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -957,8 +959,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "A98A37E3-7C5E-400D-A835-C90FD2058A7A",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

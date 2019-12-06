@@ -40,7 +40,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "207DD002-36D0-4EA1-972F-8677E03B077B",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -177,6 +176,7 @@
       "id": "45738159-D780-4143-A29D-9413CFBBB58E"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/Stacked-Sentiment-Chart",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -316,6 +316,8 @@
       "overrideName": "008E87D2-1512-47E9-B239-FACF328F830C_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -323,8 +325,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "E0E9F42B-FD5E-4FF4-867B-0DE7C84330D1",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

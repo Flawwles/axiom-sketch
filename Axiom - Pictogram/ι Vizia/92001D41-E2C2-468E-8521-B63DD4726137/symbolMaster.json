@@ -40,7 +40,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "E3608D01-30A3-401A-876A-57EC5BF888B7",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -73,6 +72,7 @@
       "id": "B7A5B8C8-B8C7-4927-8031-9CAABE258F8A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/Butterfly-Gender Chart",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -187,6 +187,8 @@
       "overrideName": "D34920D7-59EE-4551-AE37-548FEDF83D53_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -194,8 +196,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "05A7A1CD-ADC4-49C3-9C82-ED908817FCAC",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

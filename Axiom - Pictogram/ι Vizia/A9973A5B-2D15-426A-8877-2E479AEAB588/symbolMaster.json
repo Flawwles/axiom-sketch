@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "008FD0E8-7CA5-443C-9E3D-FC33B20586CF",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "A9973A5B-2D15-426A-8877-2E479AEAB588",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B572BFA1-DBF6-46A1-A003-E6580A157FB5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A1A332DE-4A7F-4DB0-B08B-29BE29313F1B",
     "height": 60,
     "width": 144,
     "x": -5267,
@@ -34,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "1D0B3553-16B0-424D-B0FB-D502B315780D",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -48,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "FE6C816B-F902-4715-9E36-EB0115D37362",
     "guides": [
     ]
   },
@@ -68,10 +63,13 @@
       "id": "D8015B8F-6D7A-46F8-A1A0-9ABD9AA60BD3"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/pi-datametrics-stacked-bar-chart-half_x_2thirds",
   "nameIsFixed": false,
   "overrideProperties": [
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -79,9 +77,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "A3811E71-57B8-40CC-A51F-9114D715DB80",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -89,7 +125,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "E355623D-32A3-4AA1-A795-C3727E597746",
     "guides": [
     ]
   }

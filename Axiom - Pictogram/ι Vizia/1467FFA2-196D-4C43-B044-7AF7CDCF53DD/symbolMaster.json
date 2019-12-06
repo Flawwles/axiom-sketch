@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "8F9081A1-1E28-4F95-93C2-1520E6E04857",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "1467FFA2-196D-4C43-B044-7AF7CDCF53DD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E03B4732-B7C4-4843-A1EC-0A6A48EAFC9A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3105C9B0-3BF2-499D-93BD-C686484B2D5A",
     "height": 80,
     "width": 108,
     "x": -5399,
@@ -34,7 +31,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "1A8F6050-E5AD-4514-9648-2F01CACBB8F7",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -48,7 +44,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "811F92A0-6B9B-4EBE-B25C-9BA3E948E5BA",
     "guides": [
       -129,
       -103
@@ -70,6 +65,7 @@
       "id": "16388988-18F1-4E2E-B582-83C216CFD2CF"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/pi-datametrics-spline-2thirds_x_half",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -89,6 +85,8 @@
       "overrideName": "0FDDC9AC-59AC-4C26-BFFA-87BD2E42CBEC_layerStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -96,9 +94,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "28D6C092-C275-4EEA-ABFE-F8907C3EAEB8",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -106,7 +142,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "CB16ADC0-4A24-4E77-B170-B3BFB5E2B368",
     "guides": [
     ]
   }

@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "ABD2FAB7-6D7A-45EF-AA2F-88E76F5900CD",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "0A144083-5CE9-4AE0-9D4C-87C2341E1DB5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8DBDD82F-A1D6-4426-B836-DB7849B49F88",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,7 +31,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AD3E5DBE-761C-464D-BF6A-D959046A4D3C",
     "height": 120,
     "width": 216,
     "x": -174.9999999999999,
@@ -41,7 +38,6 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "4E675AAC-5A31-498E-BDFA-8B9D11F60A08",
     "gridSize": 2,
     "isEnabled": false,
     "thickGridTimes": 3
@@ -55,7 +51,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "59469AEC-6585-4E5F-BF33-B3782EDB42D0",
     "guides": [
     ]
   },
@@ -82,8 +77,11 @@
       "id": "D65B3958-4C2E-439C-AA65-42AA188AB161"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "ι src/Google Analytics/Goals Key Metric",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -91,16 +89,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "FB0B578C-70F8-49A3-9A93-82DC6436D695",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "A9219E75-8127-492A-98A7-F2019C036E04",
     "guides": [
     ]
   }
