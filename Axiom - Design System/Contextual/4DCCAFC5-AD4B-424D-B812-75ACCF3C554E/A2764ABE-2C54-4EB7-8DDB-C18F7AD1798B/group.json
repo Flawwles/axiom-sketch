@@ -16,12 +16,14 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 101,
+    "width": 100,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 1
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,11 +32,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "60FC6B2B-35F9-48FD-95A0-14B25420F41D"
+      "class": "shapeGroup",
+      "id": "AFF2E04C-9FAE-4390-9EF0-116EE8833EBC"
     },
     {
       "class": "text",
