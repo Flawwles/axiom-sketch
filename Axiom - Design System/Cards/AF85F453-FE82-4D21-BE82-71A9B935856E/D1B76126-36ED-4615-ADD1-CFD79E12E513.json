@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A24DAA1D-BB84-42F8-B60E-12AF81B328C7",
+  "do_objectID": "D1B76126-36ED-4615-ADD1-CFD79E12E513",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,7 +32,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "• Overrides - State - White Noise - Default",
+  "name": "Card Background",
   "nameIsFixed": true,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
@@ -81,7 +81,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "97F73B3A-CC39-4CA7-B3FD-2BED8B02B9C0",
+  "sharedStyleID": "02756F3B-91A3-4D62-B24C-AAFF11FD9DA6",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -117,17 +117,17 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0FE01192-4153-47E9-8D1A-2B54EEA8F0BC",
+    "do_objectID": "7C6707ED-EC6D-41C4-A6D2-8463E1C5C529",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.04,
-          "blue": 0.2470588235294118,
-          "green": 0.2470588235294118,
-          "red": 0.2470588235294118
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -166,7 +166,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
