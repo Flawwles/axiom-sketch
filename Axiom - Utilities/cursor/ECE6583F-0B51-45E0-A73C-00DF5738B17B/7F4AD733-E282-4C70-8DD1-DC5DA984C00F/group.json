@@ -5,12 +5,10 @@
   "do_objectID": "7F4AD733-E282-4C70-8DD1-DC5DA984C00F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0C886E56-E104-4DC8-B70D-71EC980A9DC1",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "do_objectID": "623F2C39-41B7-4239-8C39-205DDA8A5D66",
         "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DC85384F-8FBE-4C27-9E10-27108A7F112D",
     "height": 11,
     "width": 11,
     "x": 12,
@@ -61,9 +58,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "28D60BE1-62A6-4885-A350-C097B79B80FE",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

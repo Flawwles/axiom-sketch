@@ -12,7 +12,6 @@
   "do_objectID": "A9E49596-5511-43E7-A873-EB51BC52D414",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "72FB3D43-56D8-453B-B4C3-CC3CE4D60DD5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,15 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "445848AF-3DF4-48D8-BB05-D92BFAABD029",
     "height": 640,
     "width": 800,
     "x": 630,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "80AC2E70-437C-4EB1-9D70-B321E3520FC0"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,7 +36,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "D2F9C2BF-B54C-4C6A-8A78-70B919734353",
     "guides": [
       92
     ]
@@ -97,6 +93,8 @@
   ],
   "name": "Axiom - Utilities",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -107,23 +105,50 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "B8320082-D45A-49C4-882E-771CCD2AC9EF",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 34.78260869565217,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "65AC225A-1A0B-48AE-9922-61375950A0B6",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C1A69EA4-0C6D-46DE-BE63-051FF5DE1086",
     "guides": [
     ]
   }

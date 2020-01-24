@@ -6,7 +6,6 @@
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F55F45D9-016A-432B-BA0B-EFBD47008C62",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,7 +16,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5E527BE6-DA2D-4779-A0DF-961D907E996B",
     "height": 18,
     "width": 18,
     "x": 1,
@@ -122,6 +120,38 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "47A839BF-928B-4F34-A73D-C64DE6B5514D",
     "endMarkerType": 0,
     "fills": [
@@ -134,11 +164,14 @@
           "green": 0.847,
           "red": 0.847
         },
-        "do_objectID": "7B52E86D-69A6-4709-A2B7-3B1973B0B2A5",
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
         "fillType": 1,
         "gradient": {
           "_class": "gradient",
-          "do_objectID": "AA4B39D3-B463-4897-B20B-B68C2547ED5B",
           "elipseLength": 1,
           "from": "{0.5, 0}",
           "gradientType": 0,
@@ -152,7 +185,6 @@
                 "green": 0.8235294117647058,
                 "red": 0.3568627450980392
               },
-              "do_objectID": "35361DC3-2835-497C-8835-C5D8C5F712AA",
               "position": 0
             },
             {
@@ -164,7 +196,6 @@
                 "green": 0.5450980392156862,
                 "red": 0.02352941176470585
               },
-              "do_objectID": "38C4ACC0-3227-4EE5-89F2-B896A4F75F4F",
               "position": 1
             }
           ],
@@ -177,7 +208,11 @@
         "patternTileScale": 1
       }
     ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

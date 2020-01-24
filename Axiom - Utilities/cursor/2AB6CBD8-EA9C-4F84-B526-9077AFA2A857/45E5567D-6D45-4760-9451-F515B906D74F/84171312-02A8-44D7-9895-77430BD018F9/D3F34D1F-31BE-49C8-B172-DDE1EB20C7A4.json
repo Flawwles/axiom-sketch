@@ -6,7 +6,6 @@
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9D4339E7-D4A2-4CEB-A9AD-465852F4DA9A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,7 +16,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "08B71AF6-D7FC-41A7-9468-1E464297F07C",
     "height": 9,
     "width": 9,
     "x": 9,
@@ -82,6 +80,38 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "69C5B113-EA47-47F5-B115-B411CB48EA51",
     "endMarkerType": 0,
     "fills": [
@@ -94,7 +124,11 @@
           "green": 0.776,
           "red": 0.302
         },
-        "do_objectID": "33B74B31-D7CC-45E2-83F5-7332C22A23DA",
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
         "fillType": 1,
         "gradient": {
           "_class": "gradient",
@@ -111,7 +145,6 @@
                 "green": 0.8627450980392157,
                 "red": 0.419607843137255
               },
-              "do_objectID": "E7D75E0D-F915-4F1B-A060-C4AA88C7FF0B",
               "position": 0
             },
             {
@@ -123,7 +156,6 @@
                 "green": 0.776470588235294,
                 "red": 0.3019607843137254
               },
-              "do_objectID": "58094081-A172-4104-8A71-7EB633E93562",
               "position": 1
             }
           ],
@@ -136,7 +168,11 @@
         "patternTileScale": 1
       }
     ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }
