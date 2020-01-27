@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1491,
+  "changeIdentifier": 1493,
   "clippingMaskMode": 0,
   "do_objectID": "DD3CD886-FD3B-41CC-A86B-0DE83FE5E904",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -38,10 +47,12 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +76,6 @@
       "id": "0C021263-4921-4154-A23F-9B4B5785B6D8"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Contextual/Tooltip/Regular/Left",
   "nameIsFixed": true,
   "originalObjectID": "96E2A71D-DFE4-4DE1-ADE3-F8F03BD2B2A6",
