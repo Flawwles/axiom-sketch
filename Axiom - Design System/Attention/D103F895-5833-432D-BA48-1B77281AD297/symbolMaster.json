@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 781,
+  "changeIdentifier": 1229,
   "clippingMaskMode": 0,
   "do_objectID": "D103F895-5833-432D-BA48-1B77281AD297",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 76,
+    "height": 64,
     "width": 368,
-    "x": -1383,
-    "y": -114
+    "x": -1375,
+    "y": -207
   },
   "grid": {
     "_class": "simpleGrid",
@@ -36,10 +36,14 @@
     "thickGridTimes": 10
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 1,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,7 +64,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "98D2FFF7-3302-4BCE-9197-1B71C1CB8485"
+      "id": "0A979B56-3AE3-454D-A47B-9ABEA338A20B"
     }
   ],
   "name": "Attention/Notification/Success",
@@ -69,8 +73,28 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2F1E194B-D610-4878-ACE6-3555B79BE0F9_layerStyle"
+      "canOverride": false,
+      "overrideName": "BF180D0F-F52F-463D-86FF-0162A98437AD/D8BE7E86-B44E-44DD-B2BA-BDB1A2B13BC0_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "61EB4679-3626-42FF-B911-C62F267ABF1A/31DF5BD6-1890-438B-B0AB-23EEC240C9EB_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "4779074C-EA36-4E7F-9139-0C48DAE7591C_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "E9BD101D-BFCF-41DA-906E-3D25271970A1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "BF180D0F-F52F-463D-86FF-0162A98437AD_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -80,22 +104,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4779074C-EA36-4E7F-9139-0C48DAE7591C_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "61EB4679-3626-42FF-B911-C62F267ABF1A_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "BF180D0F-F52F-463D-86FF-0162A98437AD_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C805B5D5-E745-452E-9CF3-C9775A3B2D41_symbolID"
     }
   ],
   "presetDictionary": {
