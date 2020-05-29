@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 619,
+  "changeIdentifier": 706,
   "clippingMaskMode": 0,
   "do_objectID": "566DCFB6-18F7-4716-9328-69DC8EE7683D",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 50,
     "width": 50,
-    "x": -854,
+    "x": -400,
     "y": 1043
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,13 +57,23 @@
       "id": "0B0DE281-2917-4182-90F5-541C8A2E1F78"
     }
   ],
-  "name": "Card/Day/Border/Shadow/Hover",
+  "name": "Card/Border/Default/Shadow/Hover",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "08824BFA-EABD-42D9-A081-3C12E9CBA657_layerStyle"
+      "canOverride": true,
+      "overrideName": "B3BC0123-D639-4E8A-82F1-41D7AA784914_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1D1BEB0F-D9A3-43B3-B9D2-0CEAE9A9806E_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BDDE8B08-D1A6-4D83-9C0D-7DDA1179D363_layerStyle"
     }
   ],
   "presetDictionary": {

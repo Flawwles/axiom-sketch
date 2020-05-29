@@ -80,6 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "D7208332-6726-4EF9-B1D6-D18A2A691422",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -227,13 +228,13 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 0.5,
+        "blurRadius": 2,
         "color": {
           "_class": "color",
-          "alpha": 0.15,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 0.2,
+          "blue": 0.2470588235294118,
+          "green": 0.2470588235294118,
+          "red": 0.2470588235294118
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -243,7 +244,7 @@
         "isEnabled": true,
         "offsetX": 0,
         "offsetY": 1,
-        "spread": 0
+        "spread": 0.5
       },
       {
         "_class": "shadow",
@@ -264,26 +265,6 @@
         "offsetX": 0,
         "offsetY": 1,
         "spread": 0
-      },
-      {
-        "_class": "shadow",
-        "blurRadius": 2,
-        "color": {
-          "_class": "color",
-          "alpha": 0.2,
-          "blue": 0.2470588235294118,
-          "green": 0.2470588235294118,
-          "red": 0.2470588235294118
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0.5
       }
     ],
     "startMarkerType": 0,

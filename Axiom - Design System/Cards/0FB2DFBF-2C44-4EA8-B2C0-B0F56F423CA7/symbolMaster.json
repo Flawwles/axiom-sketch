@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 574,
+  "changeIdentifier": 665,
   "clippingMaskMode": 0,
   "do_objectID": "0FB2DFBF-2C44-4EA8-B2C0-B0F56F423CA7",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 50,
     "width": 50,
-    "x": -914,
+    "x": -460,
     "y": 1103
   },
   "groupLayout": {
@@ -57,13 +57,23 @@
       "id": "CD6365A5-BB20-4133-88C6-6FA3B8CC11F2"
     }
   ],
-  "name": "Card/Day/Border/No Shadow/Active",
+  "name": "Card/Border/Default/No Shadow/Active",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "58AEB66B-093A-47C3-AF4E-68992C6596A5_layerStyle"
+      "canOverride": true,
+      "overrideName": "2AABA2D3-5F96-4127-A426-4FD4002F1B16_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "501E881A-096F-4B37-8F44-A1A665EA6059_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BC42EEFB-471E-45A5-AA7F-B0A110069A4F_layerStyle"
     }
   ],
   "presetDictionary": {
