@@ -45,7 +45,6 @@
       "id": "68616ACF-D3AC-40BA-8378-994C2C3E5A93"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -60,7 +59,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 7.5,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -121,7 +120,7 @@
         },
         "isEnabled": false,
         "position": 1,
-        "thickness": 0.75
+        "thickness": 1
       }
     ],
     "colorControls": {
@@ -129,7 +128,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -199,7 +198,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
-  "windingRule": 0
+  "windingRule": 1
 }

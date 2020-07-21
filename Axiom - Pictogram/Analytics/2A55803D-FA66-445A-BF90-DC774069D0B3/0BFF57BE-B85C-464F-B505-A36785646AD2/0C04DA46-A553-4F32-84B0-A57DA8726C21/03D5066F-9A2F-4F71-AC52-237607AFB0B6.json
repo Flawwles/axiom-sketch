@@ -29,7 +29,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
   "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 0,
@@ -87,7 +86,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 20,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -148,7 +147,7 @@
         },
         "isEnabled": false,
         "position": 1,
-        "thickness": 2
+        "thickness": 1
       }
     ],
     "colorControls": {
@@ -156,7 +155,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -171,10 +170,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.8627450980392157,
-          "green": 0.8627450980392157,
-          "red": 0.8627450980392157
+          "alpha": 0.15,
+          "blue": 0.2470588235294118,
+          "green": 0.2470588235294118,
+          "red": 0.2470588235294118
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
