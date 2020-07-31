@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 305,
+  "changeIdentifier": 314,
   "clippingMaskMode": 0,
   "do_objectID": "A34DAC0A-08D6-4D31-AD64-BCEEFFAF54D4",
   "exportOptions": {
@@ -36,7 +36,7 @@
     "height": 16,
     "width": 50,
     "x": 3480,
-    "y": 288
+    "y": 252
   },
   "grid": {
     "_class": "simpleGrid",
@@ -45,10 +45,14 @@
     "thickGridTimes": 2
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +69,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -76,11 +80,6 @@
   "nameIsFixed": true,
   "originalObjectID": "A34DAC0A-08D6-4D31-AD64-BCEEFFAF54D4",
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AFC29B0D-1652-4751-887F-C8A2A4C2F772_layerStyle"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
