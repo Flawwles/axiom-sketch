@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -2758,7 +2757,6 @@
     "images": [
     ]
   },
-  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "F32357DC-D494-4377-8546-C928E14B0E9A",
   "fontReferences": [
@@ -2924,6 +2922,117 @@
     }
   ],
   "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "96CB911A-D336-4FBE-96DB-61BFEF604D60",
+      "libraryID": "D4F845C7-E181-4F23-8908-3237214C48C1",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "A08BA8F9-1463-438D-A522-5D252A681A64",
+        "name": "Text/UI/Carbon/Subtle",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "AE47D201-D94E-4986-A0B3-D2055332B986",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.75,
+                "blue": 0.2470588235294118,
+                "green": 0.2470588235294118,
+                "red": 0.2470588235294118
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6D970311-AC9A-4497-ACAD-3163556BD8D1",
+      "sourceLibraryName": "BW Axiom Symbol Library",
+      "symbolPrivate": false
+    }
   ],
   "foreignSwatches": [
   ],
@@ -2937,9 +3046,9 @@
     ]
   },
   "meta": {
-    "appVersion": "67.2",
-    "build": 100443,
-    "version": 130
+    "appVersion": "68",
+    "build": 102490,
+    "version": 131
   },
   "pages": [
     "Title",
