@@ -21,7 +21,11 @@
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 1,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -39,6 +43,10 @@
     {
       "class": "group",
       "id": "6C31F903-F099-466C-B5D9-E18AF8B57BF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23FF07C1-D36A-4FEF-AB51-3452D322C22F"
     },
     {
       "class": "text",

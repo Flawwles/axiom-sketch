@@ -21,7 +21,11 @@
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 1,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -41,13 +45,17 @@
       "id": "A0D79D66-ACCC-443A-90B2-C6BA1095F6D2"
     },
     {
+      "class": "symbolInstance",
+      "id": "D9FD7561-5840-4524-A712-F35731F3D370"
+    },
+    {
       "class": "text",
       "id": "2E749D31-D350-4DE5-8092-5E4063EA0A58"
     }
   ],
   "name": "Attention/AlertBox/Error",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 31,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "F2368BD9-4DF1-4696-97E7-005591B95268",
+  "do_objectID": "20DED797-F5E1-4A3D-92FB-8FFB16055DC6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,53 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 15,
-    "y": 14
+    "height": 56,
+    "width": 792,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 1,
+    "maxSize": 0,
+    "minSize": 0
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Attention/AlertIcon/Warning/Primary",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "029CE811-BBB7-4787-8551-A857C91B14FB"
+    },
+    {
+      "class": "group",
+      "id": "4ED85108-8CB5-4CB7-96D9-E2FFD3FA6EE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDD2D125-E237-42EB-B768-592BFD4EBF91"
+    },
+    {
+      "class": "text",
+      "id": "4D92FB39-08F9-40D5-A0CB-4F00D3C2F3B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4716425D-F5AB-4EAB-B172-228F747717A6"
+    }
   ],
-  "resizingConstraint": 41,
+  "name": "Attention/AlertBox/Warning",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -71,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9A872CD7-2E90-4839-85CE-FF316ED49E51",
+    "do_objectID": "9311B788-3F5C-4547-A5B5-CF28CD023831",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +109,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6311CA16-859D-442C-890C-30A1BFDD459E",
-  "verticalSpacing": 0
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }

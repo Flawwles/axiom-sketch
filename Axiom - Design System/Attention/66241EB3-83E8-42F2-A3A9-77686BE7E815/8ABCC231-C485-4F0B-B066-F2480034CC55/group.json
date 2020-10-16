@@ -21,7 +21,11 @@
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -35,6 +39,10 @@
     {
       "class": "rectangle",
       "id": "96555673-DFCC-46E8-AA78-968CF4CCAEF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7466C444-441D-48CF-A9C5-200B63D78D1B"
     },
     {
       "class": "group",
