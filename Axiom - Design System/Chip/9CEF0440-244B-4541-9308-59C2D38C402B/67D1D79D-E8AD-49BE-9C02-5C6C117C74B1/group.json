@@ -21,7 +21,11 @@
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -49,7 +53,7 @@
       "id": "4BC949D3-1B63-409E-A9E3-91FA4DBE549C"
     }
   ],
-  "name": "Chip/Text + Icon Both/Regular",
+  "name": "Chips/Input/Text + Icon Both/Regular",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
