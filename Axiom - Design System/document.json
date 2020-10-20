@@ -2759,6 +2759,9 @@
   },
   "colorSpace": 0,
   "do_objectID": "F32357DC-D494-4377-8546-C928E14B0E9A",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -3324,7 +3327,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 361,
         "clippingMaskMode": 0,
         "do_objectID": "5E65D92B-52DD-431D-A55D-F9F8520D4AAB",
         "exportOptions": {
@@ -3676,7 +3678,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 361,
         "clippingMaskMode": 0,
         "do_objectID": "5E65D92B-52DD-431D-A55D-F9F8520D4AAB",
         "exportOptions": {
@@ -4033,7 +4034,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 382,
         "clippingMaskMode": 0,
         "do_objectID": "17783D66-AC81-4BA7-9C48-6F3A37486B9B",
         "exportOptions": {
@@ -4385,7 +4385,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 382,
         "clippingMaskMode": 0,
         "do_objectID": "17783D66-AC81-4BA7-9C48-6F3A37486B9B",
         "exportOptions": {
@@ -4732,13 +4731,14 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "DC1F72F2-D68F-4377-8546-C22AE16A77F7",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68",
-    "build": 102490,
-    "version": 131
+    "appVersion": "69.1",
+    "build": 107496,
+    "version": 134
   },
   "pages": [
     "Title",
@@ -4776,7 +4776,1736 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "CA1376F2-D68F-4377-8546-C22AE16A79FB",
     "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "A11298D0-7A87-4BBF-B97F-110F642AD6EA",
+        "name": "1 - Accent/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8117647058823529,
+          "green": 0.568627450980392,
+          "red": 0.0862745098039216
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9F038103-428C-4366-A3F6-36D7EA2753AC",
+        "name": "1 - Accent/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.86,
+          "green": 0.6191999999999999,
+          "red": 0.1376
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "10A40EF8-D09E-4BC4-9408-5C9746073392",
+        "name": "1 - Accent/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9098039215686274,
+          "green": 0.6705882352941172,
+          "red": 0.188235294117647
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "1FC4AA5A-8559-4421-B5C1-546A8983B6F3",
+        "name": "4 - Attention/Errors/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3803866666666668,
+          "green": 0.2256,
+          "red": 0.9400000000000001
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "CC00286D-355D-4BFA-AAC3-8AA261A05375",
+        "name": "4 - Attention/Errors/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4392156862745099,
+          "green": 0.2823529411764706,
+          "red": 0.9882352941176471
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "59662997-DA0B-41AF-AA49-C964971DB9BD",
+        "name": "4 - Attention/Errors/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5221666666666667,
+          "green": 0.39,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "AE7B5704-0BF1-4294-A040-330FECB9A61A",
+        "name": "4 - Attention/Success/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5091666666666667,
+          "green": 0.65,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "269C9764-F7F3-4BE8-B975-2CA562A408CA",
+        "name": "4 - Attention/Success/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5882352941176473,
+          "green": 0.7450980392156863,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B2893A16-39DE-4081-9C09-C61FCD910569",
+        "name": "4 - Attention/Success/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6353333333333333,
+          "green": 0.8,
+          "red": 0.03999999999999995
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2B272FE7-A3C4-4F81-ACB9-1A43AC848FCF",
+        "name": "10 - Misc/Highlight",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 1,
+          "red": 0.8431372549019609
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2CF9B804-2D80-4CA8-B1C0-48A8E1D989B8",
+        "name": "4 - Attention/Info/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8117647058823529,
+          "green": 0.568627450980392,
+          "red": 0.0862745098039216
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "1D05DDC5-2390-47E7-B02E-A177F95F00C5",
+        "name": "4 - Attention/Info/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8117647058823529,
+          "green": 0.568627450980392,
+          "red": 0.0862745098039216
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8CE767B7-8383-4922-AA08-63614FFF9B3F",
+        "name": "4 - Attention/Info/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9098039215686274,
+          "green": 0.6705882352941172,
+          "red": 0.188235294117647
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "ACFF3009-20AC-4A26-B4BB-40089B6663C9",
+        "name": "4 - Attention/Warning/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2156862745098039,
+          "green": 0.6235294117647059,
+          "red": 0.8
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B7F364E4-E973-4558-94F6-725B84855C4C",
+        "name": "4 - Attention/Warning/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2705882352941176,
+          "green": 0.6823529411764706,
+          "red": 0.8549019607843137
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "742AF346-B7B7-47BF-A09F-FAFC17E0E970",
+        "name": "4 - Attention/Warning/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3333333333333333,
+          "green": 0.7294117647058823,
+          "red": 0.9019607843137255
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "70E3D72E-52A2-4830-BC81-35A770E955D6",
+        "name": "10 - Misc/Black",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1294117647058823,
+          "green": 0.1294117647058823,
+          "red": 0.1294117647058823
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "400BEBBA-2165-49DC-B5AF-2CFCDEAB1C96",
+        "name": "10 - Misc/White",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7A4511FB-EAD1-4A9A-ADAF-7992E56A9DD3",
+        "name": "8 - Product/Blast Off/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1686274509803922,
+          "green": 0.4862745098039216,
+          "red": 0.9294117647058824
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "170C7DD1-6884-4E2C-9396-5E29C8C6046D",
+        "name": "8 - Product/Blast Off/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2235294117647059,
+          "green": 0.5411764705882353,
+          "red": 0.9764705882352941
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F97F2F34-45BB-4B89-AEB6-DEC0BBC2744A",
+        "name": "8 - Product/Blast Off/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2784313725490196,
+          "green": 0.5803921568627451,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "93CE5F8A-4731-42BD-A10E-18F96BC6D953",
+        "name": "8 - Product/Crash Course/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2745098039215687,
+          "green": 0.3647058823529412,
+          "red": 0.9490196078431372
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7796FC4A-1BCE-46DF-A798-318FF346E9BC",
+        "name": "8 - Product/Crash Course/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3372549019607843,
+          "green": 0.4274509803921568,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "07F08767-4998-4228-997F-1119FA577096",
+        "name": "8 - Product/Crash Course/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4156862745098039,
+          "green": 0.4941176470588236,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "0A834DD2-96BC-4705-AB29-32C180DF73E7",
+        "name": "8 - Product/Critical Mass/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4196078431372549,
+          "green": 0.2941176470588235,
+          "red": 0.8392156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "360ED554-99F9-4830-BE34-7270CD3F1A0F",
+        "name": "8 - Product/Critical Mass/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4784313725490196,
+          "green": 0.3529411764705883,
+          "red": 0.8901960784313725
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "EA62E519-2882-4773-92F6-57B8290ACCFD",
+        "name": "8 - Product/Critical Mass/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5450980392156862,
+          "green": 0.4235294117647059,
+          "red": 0.9411764705882353
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C92D7435-1CBD-4308-8BD0-3C542BDCBF1F",
+        "name": "8 - Product/Deep Thought/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7000000000000001,
+          "green": 0.6370000000000001,
+          "red": 0.65485
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3FC42752-F6E1-4BB3-A1CA-3DBB296F0E8A",
+        "name": "8 - Product/Deep Thought/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7529411764705882,
+          "green": 0.7254901960784313,
+          "red": 0.7333333333333333
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C88638D9-3E2F-43D3-8E2E-D3636236EB58",
+        "name": "8 - Product/Deep Thought/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A249BB2C-7539-4E80-AEF9-D3792552DF3A",
+        "name": "8 - Product/Electric Dreams/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7490196078431373,
+          "green": 0.4274509803921568,
+          "red": 0.1803921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "6F95AF1E-FBDA-4F98-AF76-F40594187059",
+        "name": "8 - Product/Electric Dreams/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.4745098039215686,
+          "red": 0.2313725490196079
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F880983B-FB7F-4D41-AAE1-96C76670A45E",
+        "name": "8 - Product/Electric Dreams/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8509803921568627,
+          "green": 0.5333333333333333,
+          "red": 0.2901960784313726
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "26E74F19-3E0C-4097-9891-EBC94D20BE35",
+        "name": "8 - Product/Extraterrestrial/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3764705882352941,
+          "green": 0.7411764705882353,
+          "red": 0.3882352941176471
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "ED2A5282-B9B0-49BD-A4A4-59097532A319",
+        "name": "8 - Product/Extraterrestrial/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4431372549019608,
+          "green": 0.788235294117647,
+          "red": 0.4549019607843137
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "972B0F60-1702-4676-BC34-3717AD273E4F",
+        "name": "8 - Product/Extraterrestrial/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5137254901960784,
+          "green": 0.8392156862745098,
+          "red": 0.5215686274509804
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F7D2EFD2-298E-49EC-806B-B6E0FD53644F",
+        "name": "8 - Product/Event Horizon/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5803921568627451,
+          "green": 0.3333333333333333,
+          "red": 0.3176470588235294
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "64B50C31-F7A1-42C6-801F-622D33AE8A70",
+        "name": "8 - Product/Event Horizon/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6313725490196078,
+          "green": 0.3882352941176471,
+          "red": 0.3764705882352941
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "21905115-B23C-43A6-94B3-3E75922E0CD9",
+        "name": "8 - Product/Event Horizon/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6784313725490196,
+          "green": 0.4549019607843137,
+          "red": 0.4431372549019608
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "571B1885-8874-4257-B483-56B2659E4F4E",
+        "name": "8 - Product/Fantatic Voyage/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3203516666666665,
+          "green": 0.1403,
+          "red": 0.61
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "FF8BABE6-9751-47E2-9AB3-8716D9482911",
+        "name": "8 - Product/Fantatic Voyage/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3675504795583314,
+          "green": 0.1819920961548682,
+          "red": 0.6561968537414966
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "164EFDF3-CECC-499C-8211-F04678A119EA",
+        "name": "8 - Product/Fantatic Voyage/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4166516666666664,
+          "green": 0.2343,
+          "red": 0.71
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "793B5D78-2D0E-4B5C-A6D0-D38AE272E5CB",
+        "name": "8 - Product/Forbidden Planet/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5647058823529412,
+          "green": 0.6235294117647059,
+          "red": 0.9098039215686274
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "51B447C1-DE9C-4307-98F1-A6BE07132130",
+        "name": "8 - Product/Forbidden Planet/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6431372549019608,
+          "green": 0.6941176470588235,
+          "red": 0.9607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "EE783567-D233-4EED-A592-6E828D9E1A7D",
+        "name": "8 - Product/Forbidden Planet/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7215686274509804,
+          "green": 0.7686274509803922,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3AD504A0-6FE1-451A-BF64-FE218AE8C5CA",
+        "name": "8 - Product/Future Shock/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.06274509803921569,
+          "green": 0.8745098039215686,
+          "red": 0.8901960784313725
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "0CB9140D-181F-43E5-B17A-F3C7A392DBE1",
+        "name": "8 - Product/Future Shock/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1137254901960784,
+          "green": 0.9254901960784314,
+          "red": 0.9411764705882353
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "967D5598-FC67-4A78-8D76-803090752365",
+        "name": "8 - Product/Future Shock/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1686274509803922,
+          "green": 0.9764705882352941,
+          "red": 0.9882352941176471
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "CDAFEF7F-421F-47B8-989A-900067F9D048",
+        "name": "8 - Product/Giant Leap/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8509803921568627,
+          "green": 0.7529411764705882,
+          "red": 0.2705882352941176
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E150EA59-EE03-41AD-AD74-65E2FA891B6D",
+        "name": "8 - Product/Giant Leap/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9019607843137255,
+          "green": 0.803921568627451,
+          "red": 0.3333333333333333
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "01838AE5-B9CE-4A69-8932-1392C5993BBD",
+        "name": "8 - Product/Giant Leap/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.8588235294117647,
+          "red": 0.4
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B05D22FC-BDE2-4CF8-89FD-0E8FFC3C7AFC",
+        "name": "8 - Product/Ground Control/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1764705882352941,
+          "green": 0.3333333333333333,
+          "red": 0.5686274509803921
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E40BC8C7-BBA9-41A4-BFAE-5268DE0A7395",
+        "name": "8 - Product/Ground Control/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2235294117647059,
+          "green": 0.3803921568627451,
+          "red": 0.6196078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "75829FEF-D7FB-4DBA-9A05-9B8B66CB2E40",
+        "name": "8 - Product/Ground Control/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2745098039215687,
+          "green": 0.4313725490196079,
+          "red": 0.6705882352941176
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F2F38C09-07FA-4338-A5B8-CE5074BF065A",
+        "name": "8 - Product/Luna Dust/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.56,
+          "green": 0.5077333333333334,
+          "red": 0.4032
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "31C758DE-8D23-4FF1-8E24-78148C764C24",
+        "name": "8 - Product/Luna Dust/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.612,
+          "green": 0.5650000000000001,
+          "red": 0.471
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "80BE79F3-9D40-4E11-857F-E384CC528346",
+        "name": "8 - Product/Luna Dust/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.66,
+          "green": 0.6204,
+          "red": 0.5412
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5888DF29-C519-4B9C-B5DE-7246308112F4",
+        "name": "8 - Product/Moon Lagoon/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6901960784313725,
+          "green": 0.6313725490196078,
+          "red": 0.09803921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "510DAF4A-7EE9-46A9-885C-8CEE2F1F13B3",
+        "name": "8 - Product/Moon Lagoon/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7411764705882353,
+          "green": 0.6784313725490196,
+          "red": 0.1411764705882353
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "52249DD6-24D2-47C5-A849-D5A583C90FA0",
+        "name": "8 - Product/Moon Lagoon/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.788235294117647,
+          "green": 0.7294117647058823,
+          "red": 0.1882352941176471
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "1C5128DB-F420-4A97-B03F-E8868BE85EEC",
+        "name": "8 - Product/New Horizon/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.6980392156862745,
+          "red": 0.9490196078431372
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8CDBEC66-128B-407A-884D-C598FF989203",
+        "name": "8 - Product/New Horizon/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.0392156862745098,
+          "green": 0.7450980392156863,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "81DA5D05-D69B-44AC-8819-4834230FB8F9",
+        "name": "8 - Product/New Horizon/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1921568627450981,
+          "green": 0.7803921568627451,
+          "red": 0.996078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9B1B8827-065B-492A-95B3-76925C890F9E",
+        "name": "8 - Product/Outer Limits/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9215686274509803,
+          "green": 0.7803921568627451,
+          "red": 0.4235294117647059
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "30EAB0CC-45C6-4461-A50D-17C5C3D3FD0C",
+        "name": "8 - Product/Outer Limits/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9725490196078431,
+          "green": 0.8392156862745098,
+          "red": 0.4980392156862745
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2EEC250B-295E-40C1-AC41-FF4705FE7C53",
+        "name": "8 - Product/Outer Limits/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9882352941176471,
+          "green": 0.8705882352941177,
+          "red": 0.5764705882352941
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "879A9706-0B84-414E-B708-787468F64484",
+        "name": "8 - Product/Paradise Lost/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.65,
+          "green": 0.39,
+          "red": 0.559
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "0CE09F2E-8D44-47F7-8F47-9A029D35FFC7",
+        "name": "8 - Product/Paradise Lost/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6980000000000001,
+          "green": 0.451,
+          "red": 0.612
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E2871099-CFF5-4C30-806B-B035F32F37F0",
+        "name": "8 - Product/Paradise Lost/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.75,
+          "green": 0.5249999999999999,
+          "red": 0.6712500000000001
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "55A92386-E71C-4BEA-BDF9-471242D9B311",
+        "name": "8 - Product/Primeval Soup/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.05882352941176471,
+          "green": 0.7294117647058823,
+          "red": 0.7294117647058823
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D2664D56-4729-43DB-986C-1E6674CD2194",
+        "name": "8 - Product/Primeval Soup/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09803921568627451,
+          "green": 0.7843137254901961,
+          "red": 0.7843137254901961
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7CD166E7-2A40-4698-9A52-038CA4135ACD",
+        "name": "8 - Product/Primeval Soup/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1490196078431373,
+          "green": 0.8313725490196079,
+          "red": 0.8313725490196079
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3A2ACEEA-9438-4BB1-8474-82BC48ADB0C5",
+        "name": "8 - Product/Rising Star/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.0196078431372549,
+          "green": 0.788235294117647,
+          "red": 0.9411764705882353
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D6F20FF0-3E0B-41E1-A4B9-96FB279A6D67",
+        "name": "8 - Product/Rising Star/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.07058823529411765,
+          "green": 0.8352941176470589,
+          "red": 0.9882352941176471
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F344B8FD-6052-4415-BC69-7C0431E403F0",
+        "name": "8 - Product/Rising Star/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1803921568627451,
+          "green": 0.8627450980392157,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "6EF4FCB0-4419-4141-A363-4D7A26CA0496",
+        "name": "8 - Product/Rocky Planet/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.392156862745098,
+          "green": 0.5019607843137255,
+          "red": 0.5686274509803921
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D07DD344-6864-479D-AA19-8494591B081A",
+        "name": "8 - Product/Rocky Planet/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4588235294117647,
+          "green": 0.5568627450980392,
+          "red": 0.6196078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "72E589D9-6708-48B7-A004-7EEB4F151B93",
+        "name": "8 - Product/Rocky Planet/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5294117647058824,
+          "green": 0.615686274509804,
+          "red": 0.6705882352941176
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F3711DE8-E6D5-455C-9354-C39B51512F06",
+        "name": "8 - Product/Serene Sea/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.79,
+          "green": 0.5598466666666667,
+          "red": 0.4898
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "741B5FAD-F225-4872-A41B-6CB8FB701BE9",
+        "name": "8 - Product/Serene Sea/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.839,
+          "green": 0.627,
+          "red": 0.5650000000000001
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "61E22783-9592-4D37-8F4A-893CE16AD1AF",
+        "name": "8 - Product/Serene Sea/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.89,
+          "green": 0.6989466666666667,
+          "red": 0.6408
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "0C81D8C7-E65D-4A40-BD4B-DE47A4BFA166",
+        "name": "8 - Product/Solar Rust/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.05882352941176471,
+          "green": 0.4627450980392157,
+          "red": 0.7490196078431373
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "6BF5F986-AF7B-4928-9D7A-43E5BFCE3E2B",
+        "name": "8 - Product/Solar Rust/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1019607843137255,
+          "green": 0.5058823529411764,
+          "red": 0.803921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "345192DF-4DAA-4BD9-918A-7A16C5DACE67",
+        "name": "8 - Product/Solar Rust/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1529411764705882,
+          "green": 0.5607843137254902,
+          "red": 0.8509803921568627
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "651B0A6E-562D-477B-B26A-68FB8FF380DC",
+        "name": "8 - Product/Space Invader/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.392156862745098,
+          "green": 0.5215686274509804,
+          "red": 0.1411764705882353
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "69D86574-DCE7-45B2-8EAE-0AB20D99EBA5",
+        "name": "8 - Product/Space Invader/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4392156862745098,
+          "green": 0.5686274509803921,
+          "red": 0.1843137254901961
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9389F85B-9ABB-4F4F-A89F-2F2F8C06DC6F",
+        "name": "8 - Product/Space Invader/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4901960784313725,
+          "green": 0.6196078431372549,
+          "red": 0.2274509803921569
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5DFD25E4-44C0-441E-864D-72640453B241",
+        "name": "8 - Product/Space Oddity/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2980392156862745,
+          "green": 0.5843137254901961,
+          "red": 0.6901960784313725
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8B38BD18-CB13-4555-9484-5F77548E840D",
+        "name": "8 - Product/Space Oddity/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3568627450980392,
+          "green": 0.6392156862745098,
+          "red": 0.7411764705882353
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "085246C7-02E8-40F2-B5A0-5205C7EA7789",
+        "name": "8 - Product/Space Oddity/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4196078431372549,
+          "green": 0.6901960784313725,
+          "red": 0.788235294117647
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F9B2478B-FDDF-4C04-B784-0FBE81F902BA",
+        "name": "8 - Product/Terra Form/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2431372549019608,
+          "green": 0.7019607843137254,
+          "red": 0.4509803921568628
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E43F5C48-F3FA-4BBB-B058-61EA361021C5",
+        "name": "8 - Product/Terra Form/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2980392156862745,
+          "green": 0.7450980392156863,
+          "red": 0.5019607843137255
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "438D44AE-0919-4DCC-A661-E2910EE638EC",
+        "name": "8 - Product/Terra Form/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3607843137254902,
+          "green": 0.8,
+          "red": 0.5568627450980392
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3FDAB3D9-FE38-44AB-9056-F68BAE951C59",
+        "name": "8 - Product/Tiny Clanger/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6491333333333332,
+          "green": 0.5187,
+          "red": 0.91
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "EC5838A6-78B7-4AB9-BE91-815BC45ECC96",
+        "name": "8 - Product/Tiny Clanger/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.718,
+          "green": 0.596,
+          "red": 0.9570000000000001
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "168C3C10-C959-43FD-A4EE-1BFE79621354",
+        "name": "8 - Product/Tiny Clanger/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7799999999999999,
+          "green": 0.6699999999999999,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "66F67052-5D2D-493E-BCA9-20F85CE41CA8",
+        "name": "6 - Sentiment/Negative/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2291,
+          "green": 0.2291,
+          "red": 0.79
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "CC50A5FE-5C95-4318-B37A-C9F9A1D9D3D3",
+        "name": "6 - Sentiment/Negative/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2898723529162198,
+          "green": 0.2898723529162198,
+          "red": 0.8445737670068028
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A17E4A15-F7C6-413F-87E2-65E81AC0FF45",
+        "name": "6 - Sentiment/Negative/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3471,
+          "green": 0.3471,
+          "red": 0.89
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "93F9AB75-875C-453F-AF5B-5E0B7C1A20F5",
+        "name": "6 - Sentiment/Netural/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "871C6B67-7CE2-4D61-A53C-7F0E9B67B2E5",
+        "name": "6 - Sentiment/Netural/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7529411764705882,
+          "green": 0.7254901960784313,
+          "red": 0.7333333333333333
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F427A2E1-23E2-4228-999A-E71716C0840E",
+        "name": "6 - Sentiment/Netural/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7019607843137254,
+          "green": 0.6352941176470588,
+          "red": 0.6549019607843137
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "813E66E7-C63D-4CB2-AF51-B8A6770D533E",
+        "name": "6 - Sentiment/Positive/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2980392156862745,
+          "green": 0.5803921568627451,
+          "red": 0.2431372549019608
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D3AC4EDC-B26E-4CB9-A81D-4E7E5CDD0E13",
+        "name": "6 - Sentiment/Positive/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3529411764705883,
+          "green": 0.6313725490196078,
+          "red": 0.2980392156862745
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "00356A17-4DC7-461A-A814-4BD2B8DD9460",
+        "name": "6 - Sentiment/Positive/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.407843137254902,
+          "green": 0.6784313725490196,
+          "red": 0.3529411764705883
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3FBFC898-653E-42F4-AA5A-EFB997DD0FDF",
+        "name": "9 - Social/Facebook/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9,
+          "green": 0.4175917431192662,
+          "red": 0.04500000000000004
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A9E375A7-A34E-45E8-91C1-91FF6B2F4B08",
+        "name": "9 - Social/Facebook/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.4666666666666667,
+          "red": 0.09411764705882353
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5262B1F3-8276-491D-B664-955FDDEC3D1E",
+        "name": "9 - Social/Facebook/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.5204128440366974,
+          "red": 0.15
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "6A1BC160-2C4A-44E6-8317-9C6376AB0B08",
+        "name": "9 - Social/Insta/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5254901960784314,
+          "green": 0.2588235294117647,
+          "red": 0.6588235294117647
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "BBCF145A-CB92-4B77-A257-05CA9F73EA27",
+        "name": "9 - Social/Insta/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5725490196078431,
+          "green": 0.3098039215686275,
+          "red": 0.7058823529411765
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7B004E8B-3420-4743-87E6-3376FA0AD819",
+        "name": "9 - Social/Insta/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6313725490196078,
+          "green": 0.3725490196078431,
+          "red": 0.7607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8BF86CCF-5869-46B2-8FDB-EEE82665C65E",
+        "name": "9 - Social/Twitter/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9,
+          "green": 0.5791499999999999,
+          "red": 0.06299999999999996
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5C2983E6-E8BA-493F-BD8B-F7182B0777AA",
+        "name": "9 - Social/Twitter/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.6313725490196079,
+          "red": 0.1137254901960785
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E89981CB-5DD6-48A6-B5EB-048D48356233",
+        "name": "9 - Social/Twitter/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.6818333333333333,
+          "red": 0.1699999999999999
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7A7A15F8-27CE-494F-8083-DA1815F12063",
+        "name": "9 - Social/VK/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.611764705882353,
+          "green": 0.4117647058823529,
+          "red": 0.2392156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "78DD64D0-A356-40C5-B486-D5E3EB14E002",
+        "name": "9 - Social/VK/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6588235294117647,
+          "green": 0.4627450980392157,
+          "red": 0.2901960784313725
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "EA5B0434-AF1A-4209-8E20-D021D16C33D6",
+        "name": "9 - Social/VK/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7098039215686275,
+          "green": 0.5176470588235293,
+          "red": 0.3490196078431372
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "514C4EBD-092E-4E36-848F-620C0FF312D7",
+        "name": "9 - Social/Reddit/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.2392156862745098,
+          "red": 0.8823529411764706
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "434F0190-9B0D-4EE6-8B43-36D3554573D5",
+        "name": "9 - Social/Reddit/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.2705882352941176,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A85F1DA7-B464-49FC-B0EC-11CF52A79EEE",
+        "name": "9 - Social/Reddit/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09803921568627451,
+          "green": 0.3411764705882353,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8D279BFA-E4EA-4239-806F-F16F4A0AC43A",
+        "name": "9 - Social/Tumblr/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3098039215686275,
+          "green": 0.2235294117647059,
+          "red": 0.1607843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "82328309-26EF-4829-9C9A-A97F46E4DBC0",
+        "name": "9 - Social/Tumblr/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3647058823529412,
+          "green": 0.2745098039215687,
+          "red": 0.207843137254902
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "69969BE0-20EA-47BB-98D7-06C4E36A5D99",
+        "name": "9 - Social/Tumblr/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4117647058823529,
+          "green": 0.3215686274509804,
+          "red": 0.2549019607843137
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "849FF770-1E3B-46A2-8360-C4F42E8AE22C",
+        "name": "9 - Social/4chan/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4588235294117647,
+          "green": 0.6,
+          "red": 0.8784313725490196
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3A08A58F-D592-4B19-8B03-FB89C8FD2940",
+        "name": "9 - Social/4chan/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5333333333333333,
+          "green": 0.6666666666666666,
+          "red": 0.9333333333333333
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "1A23F180-C2D2-4CCE-ACAC-BD0226530361",
+        "name": "9 - Social/4chan/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6078431372549019,
+          "green": 0.7333333333333333,
+          "red": 0.9803921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "4B57BA36-68CE-4236-A7AC-41160BF9C92C",
+        "name": "2 - Carbon/Dark",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2078431372549019,
+          "green": 0.2078431372549019,
+          "red": 0.2078431372549019
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B36A65B2-194A-42C9-8FE4-BA68FF726E8B",
+        "name": "2 - Carbon/Darker",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1686274509803922,
+          "green": 0.1686274509803922,
+          "red": 0.1686274509803922
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "BEB2A455-1446-47ED-AA83-810EE6BCAC4B",
+        "name": "2 - Carbon/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2470588235294118,
+          "green": 0.2470588235294118,
+          "red": 0.2470588235294118
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "EAAEBC49-9776-4EB9-AA0E-E59216A4462C",
+        "name": "2 - Carbon/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 0.08,
+          "blue": 0.2470588235294118,
+          "green": 0.2470588235294118,
+          "red": 0.2470588235294118
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9B187682-6F3C-4539-8611-D49C4E967A19",
+        "name": "2 - Carbon/Disabled",
+        "value": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0.2470588235294118,
+          "green": 0.2470588235294118,
+          "red": 0.2470588235294118
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "EF373A1D-840E-45B5-A840-E38993368746",
+        "name": "2 - Carbon/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 0.04,
+          "blue": 0.2470588235294118,
+          "green": 0.2470588235294118,
+          "red": 0.2470588235294118
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E6835E0B-7457-40BE-BC79-8C4679CD42B0",
+        "name": "2 - Carbon/Overlay Heavy",
+        "value": {
+          "_class": "color",
+          "alpha": 0.75,
+          "blue": 0.2470588235294118,
+          "green": 0.2470588235294118,
+          "red": 0.2470588235294118
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "FF233A7C-32EF-407A-86C8-3BD9E1577695",
+        "name": "2 - Carbon/Overlay Light",
+        "value": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.2470588235294118,
+          "green": 0.2470588235294118,
+          "red": 0.2470588235294118
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "34051C4C-9F2B-40A5-AD15-7B9B17CE34FC",
+        "name": "2 - Carbon/Subtle",
+        "value": {
+          "_class": "color",
+          "alpha": 0.15,
+          "blue": 0.2470588235294118,
+          "green": 0.2470588235294118,
+          "red": 0.2470588235294118
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7851390C-3150-45D4-BBF9-7FA0B5A8C703",
+        "name": "3 - White Noise/Dark",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9333333333333333,
+          "green": 0.9333333333333333,
+          "red": 0.9333333333333333
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "28F79C28-D0D9-4C20-B384-4F031E6BFBB6",
+        "name": "3 - White Noise/Darker",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8941176470588235,
+          "green": 0.8941176470588235,
+          "red": 0.8941176470588235
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E4ECD346-4862-4EA7-8F73-40B8EF70F488",
+        "name": "3 - White Noise/Default",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9725490196078431,
+          "green": 0.9725490196078431,
+          "red": 0.9725490196078431
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E1E86657-F5E3-4DBD-BE78-457EA15883D5",
+        "name": "3 - White Noise/Active",
+        "value": {
+          "_class": "color",
+          "alpha": 0.08,
+          "blue": 0.9725490196078431,
+          "green": 0.9725490196078431,
+          "red": 0.9725490196078431
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F49E615A-6946-4EFB-BD56-1DE110730AF4",
+        "name": "3 - White Noise/Disabled",
+        "value": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0.9725490196078431,
+          "green": 0.9725490196078431,
+          "red": 0.9725490196078431
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B575ABF4-9A71-4435-A807-9E4DC1E90772",
+        "name": "3 - White Noise/Hover",
+        "value": {
+          "_class": "color",
+          "alpha": 0.04,
+          "blue": 0.9725490196078431,
+          "green": 0.9725490196078431,
+          "red": 0.9725490196078431
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "910F6BBE-4106-49A1-B7F2-8C888DD54E2D",
+        "name": "3 - White Noise/Overlay Heavy",
+        "value": {
+          "_class": "color",
+          "alpha": 0.75,
+          "blue": 0.9725490196078431,
+          "green": 0.9725490196078431,
+          "red": 0.9725490196078431
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D177829B-1B21-4716-9432-7ABFA346C156",
+        "name": "3 - White Noise/Overlay Light",
+        "value": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.9725490196078431,
+          "green": 0.9725490196078431,
+          "red": 0.9725490196078431
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F0B500B1-1841-4F58-A6AF-27FAFC732D32",
+        "name": "3 - White Noise/Subtle",
+        "value": {
+          "_class": "color",
+          "alpha": 0.15,
+          "blue": 0.9725490196078431,
+          "green": 0.9725490196078431,
+          "red": 0.9725490196078431
+        }
+      }
     ]
   },
   "userInfo": {
