@@ -42,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "9C6676A7-7422-405B-BFD4-A3801A68171D"
+      "class": "rectangle",
+      "id": "B1A8FBF5-1E62-4B17-A3DA-7615CFE32968"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10F1E783-968B-4523-B456-30C1229B6CFE"
+    },
+    {
+      "class": "text",
+      "id": "71200880-0A17-4E49-BE73-C67E44B1108E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "093FB36F-E38B-443F-AB8B-B8830411B112"
     }
   ],
   "name": "Chips/Input/Text + Icon Both/Large/Default",
@@ -71,28 +83,33 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "10F1E783-968B-4523-B456-30C1229B6CFE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "B1A8FBF5-1E62-4B17-A3DA-7615CFE32968_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "093FB36F-E38B-443F-AB8B-B8830411B112_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "10F1E783-968B-4523-B456-30C1229B6CFE_symbolID"
+      "canOverride": false,
+      "overrideName": "10F1E783-968B-4523-B456-30C1229B6CFE/31DF5BD6-1890-438B-B0AB-23EEC240C9EB_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "71200880-0A17-4E49-BE73-C67E44B1108E_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "71200880-0A17-4E49-BE73-C67E44B1108E_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B1A8FBF5-1E62-4B17-A3DA-7615CFE32968_layerStyle"
+      "overrideName": "71200880-0A17-4E49-BE73-C67E44B1108E_stringValue"
     }
   ],
   "presetDictionary": {

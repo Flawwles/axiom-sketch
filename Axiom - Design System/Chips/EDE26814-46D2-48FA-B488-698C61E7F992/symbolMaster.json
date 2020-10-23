@@ -42,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "140020BE-9E57-4F7B-99C2-343047EBC6DC"
+      "class": "rectangle",
+      "id": "366444BB-E9C5-4FB4-AB90-5EAB2D969490"
+    },
+    {
+      "class": "text",
+      "id": "6DCDCC68-5D3E-4164-99BD-7E39EE39240E"
     }
   ],
   "name": "Chips/Choice/Text/Medium/Hover",
@@ -71,12 +75,12 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "366444BB-E9C5-4FB4-AB90-5EAB2D969490_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "6DCDCC68-5D3E-4164-99BD-7E39EE39240E_textStyle"
     },
     {

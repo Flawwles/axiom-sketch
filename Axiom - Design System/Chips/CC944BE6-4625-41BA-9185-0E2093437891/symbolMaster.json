@@ -42,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "364C6EA6-A668-45D4-B96A-CB37515B7AB7"
+      "class": "rectangle",
+      "id": "5101A2BC-BD6E-426B-9B51-B56585E2C602"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7FC3763-435A-4040-AA1D-CA601E0E2FE1"
+    },
+    {
+      "class": "text",
+      "id": "D261590D-A906-403E-8707-D00B53DAD025"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E162037A-E5EF-4E22-899C-63200D82ECFE"
     }
   ],
   "name": "Chips/Input/Text + Icon Both/Medium/Invalid",
@@ -71,23 +83,28 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
+      "overrideName": "C7FC3763-435A-4040-AA1D-CA601E0E2FE1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
       "overrideName": "5101A2BC-BD6E-426B-9B51-B56585E2C602_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C7FC3763-435A-4040-AA1D-CA601E0E2FE1_symbolID"
+      "canOverride": false,
+      "overrideName": "D261590D-A906-403E-8707-D00B53DAD025_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C7FC3763-435A-4040-AA1D-CA601E0E2FE1/31DF5BD6-1890-438B-B0AB-23EEC240C9EB_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "D261590D-A906-403E-8707-D00B53DAD025_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "D261590D-A906-403E-8707-D00B53DAD025_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

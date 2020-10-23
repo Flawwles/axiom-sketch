@@ -42,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -66,12 +66,12 @@
       "id": "022C72BB-0A8E-40A3-B0AC-B381F0006939"
     },
     {
-      "class": "symbolInstance",
-      "id": "D5198CE5-CBAB-4256-BFEE-1A6CEFAB457F"
-    },
-    {
       "class": "text",
       "id": "ACDD2A23-C451-445E-8318-E69AACFD43FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5198CE5-CBAB-4256-BFEE-1A6CEFAB457F"
     }
   ],
   "name": "Chips/Choice/Text + Icon/Large/Active",
@@ -79,18 +79,18 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "ACDD2A23-C451-445E-8318-E69AACFD43FE_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "022C72BB-0A8E-40A3-B0AC-B381F0006939_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "ACDD2A23-C451-445E-8318-E69AACFD43FE_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "022C72BB-0A8E-40A3-B0AC-B381F0006939_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

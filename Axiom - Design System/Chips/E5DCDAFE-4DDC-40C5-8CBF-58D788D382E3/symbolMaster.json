@@ -42,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "C15E26C6-865B-4E10-9CC1-257BA2F6A039"
+      "class": "rectangle",
+      "id": "EA7A1FDF-A935-4C5A-9A16-744051E96946"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC3C5300-6D21-4C12-AC5B-D4B01BD7DBC2"
+    },
+    {
+      "class": "text",
+      "id": "4513ABDC-1670-43F7-BE9C-CF91D9343F41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FAB6A51-E40C-437D-8D7B-D767B288FDAA"
     }
   ],
   "name": "Chips/Input/Text + Icon Both/Small/Valid",
@@ -76,23 +88,28 @@
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "4513ABDC-1670-43F7-BE9C-CF91D9343F41_stringValue"
+      "canOverride": false,
+      "overrideName": "AC3C5300-6D21-4C12-AC5B-D4B01BD7DBC2_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
+      "overrideName": "AC3C5300-6D21-4C12-AC5B-D4B01BD7DBC2/31DF5BD6-1890-438B-B0AB-23EEC240C9EB_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "EA7A1FDF-A935-4C5A-9A16-744051E96946_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
       "overrideName": "4513ABDC-1670-43F7-BE9C-CF91D9343F41_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "AC3C5300-6D21-4C12-AC5B-D4B01BD7DBC2_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EA7A1FDF-A935-4C5A-9A16-744051E96946_layerStyle"
+      "overrideName": "4513ABDC-1670-43F7-BE9C-CF91D9343F41_stringValue"
     }
   ],
   "presetDictionary": {

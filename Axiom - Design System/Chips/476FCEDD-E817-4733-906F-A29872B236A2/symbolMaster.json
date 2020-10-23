@@ -42,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "44EB271D-22F0-48EF-8798-8DF320D34A02"
+      "class": "rectangle",
+      "id": "D2014DA8-E23F-4166-AABB-4C34F2296E15"
+    },
+    {
+      "class": "text",
+      "id": "07758095-1E18-478D-8262-FF3F7E5B0CA9"
     }
   ],
   "name": "Chips/Input/Text/Small/Invalid",
@@ -71,18 +75,18 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "07758095-1E18-478D-8262-FF3F7E5B0CA9_stringValue"
+      "canOverride": false,
+      "overrideName": "D2014DA8-E23F-4166-AABB-4C34F2296E15_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "07758095-1E18-478D-8262-FF3F7E5B0CA9_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D2014DA8-E23F-4166-AABB-4C34F2296E15_layerStyle"
+      "overrideName": "07758095-1E18-478D-8262-FF3F7E5B0CA9_stringValue"
     }
   ],
   "presetDictionary": {

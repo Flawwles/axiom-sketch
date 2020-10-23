@@ -42,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "A41A28C2-4669-496B-99D6-05B99D4F122A"
+      "class": "rectangle",
+      "id": "3EDECE02-3A92-4EB4-B84F-B19AC9E6E579"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "124AFBF3-3B06-4E3E-9A9B-D86159F706F2"
+    },
+    {
+      "class": "text",
+      "id": "084467CA-69FE-4F28-B8B2-18A06AD2C097"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72315CF4-B60E-47EF-AB59-9EC2D98B603A"
     }
   ],
   "name": "Chips/Input/Text + Icon Both/Large/Valid",
@@ -71,22 +83,27 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "084467CA-69FE-4F28-B8B2-18A06AD2C097_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "084467CA-69FE-4F28-B8B2-18A06AD2C097_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "124AFBF3-3B06-4E3E-9A9B-D86159F706F2_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "084467CA-69FE-4F28-B8B2-18A06AD2C097_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "084467CA-69FE-4F28-B8B2-18A06AD2C097_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "124AFBF3-3B06-4E3E-9A9B-D86159F706F2/31DF5BD6-1890-438B-B0AB-23EEC240C9EB_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
       "overrideName": "3EDECE02-3A92-4EB4-B84F-B19AC9E6E579_layerStyle"
     },
     {

@@ -42,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "9AEAD6D2-6A2A-4438-8114-941E4815DC40"
+      "class": "rectangle",
+      "id": "3D31652C-62C7-49E8-BACC-F795CDE78848"
+    },
+    {
+      "class": "text",
+      "id": "B592EC82-B10A-4E56-AAD7-3E71E61DF3E1"
     },
     {
       "class": "symbolInstance",
@@ -80,18 +84,18 @@
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "3D31652C-62C7-49E8-BACC-F795CDE78848_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "B592EC82-B10A-4E56-AAD7-3E71E61DF3E1_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "25C2918A-0F36-4A70-B359-F4C66A3473CA_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B592EC82-B10A-4E56-AAD7-3E71E61DF3E1_textStyle"
     }
   ],
   "presetDictionary": {

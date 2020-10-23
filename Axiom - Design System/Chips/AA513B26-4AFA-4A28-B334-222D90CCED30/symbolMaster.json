@@ -42,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,8 +62,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "8B7A9E7E-E803-40CA-BF47-A344B998CCD7"
+      "class": "rectangle",
+      "id": "EBF2DE58-F27F-4C48-888C-814A890F2ED8"
+    },
+    {
+      "class": "text",
+      "id": "C8AED7B9-EB79-4021-B3F8-3A4C43C17CE3"
     }
   ],
   "name": "Chips/Input/Text/Medium/Valid",
@@ -76,12 +80,12 @@
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "C8AED7B9-EB79-4021-B3F8-3A4C43C17CE3_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
+      "canOverride": false,
       "overrideName": "EBF2DE58-F27F-4C48-888C-814A890F2ED8_layerStyle"
     }
   ],
