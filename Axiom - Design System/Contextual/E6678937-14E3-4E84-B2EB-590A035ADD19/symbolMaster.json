@@ -42,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,29 +59,48 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapePath",
+      "id": "554DB6F1-417C-4524-9D8B-70FBFEAF0A1C"
+    },
+    {
+      "class": "text",
+      "id": "6C636B04-5F88-4A3B-B721-6938ED4875FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7740750B-061C-460A-B94A-0D78AF459D13"
+    },
+    {
       "class": "group",
-      "id": "C1F6D501-9167-4472-8598-BEF6A2E100A6"
+      "id": "CADAFBBC-C98C-4513-B5DF-1C81DBE4A6CC"
     },
     {
       "class": "symbolInstance",
-      "id": "CAC4399B-370C-4C17-91BB-649CD4343955"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0CBB3B8B-479D-4D25-8279-DC65963FA674"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7A9BCCB2-2FF7-4591-8A03-2AE82916DFD2"
+      "id": "5731C9E7-DAF8-42D0-87EE-DC985E782028"
     }
   ],
-  "name": "Contextual/ContextMenu/2) Content/Small/Text Option/Multiselect/Nested/Checked/Default",
+  "name": "Contextual/ContextMenu/2) Content/Small/Text Option/Multiselect/Nested/Collapsed/Checked/Default",
   "nameIsFixed": true,
   "originalObjectID": "99AA1909-F9B7-4090-8605-CD0CBE48BB79",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5731C9E7-DAF8-42D0-87EE-DC985E782028/04E06BA7-4465-4CC2-B5FB-0B3D1BB57D79_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "D2E00712-DC7B-4142-9666-6AC3AEDD51D0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "7740750B-061C-460A-B94A-0D78AF459D13/20A8B1FF-5375-49AF-B2D2-1BD72E09F6CB_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -89,28 +108,43 @@
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CAC4399B-370C-4C17-91BB-649CD4343955_symbolID"
+      "canOverride": false,
+      "overrideName": "5731C9E7-DAF8-42D0-87EE-DC985E782028_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "7A9BCCB2-2FF7-4591-8A03-2AE82916DFD2_symbolID"
+      "canOverride": false,
+      "overrideName": "7740750B-061C-460A-B94A-0D78AF459D13/20A8B1FF-5375-49AF-B2D2-1BD72E09F6CB/D8BE7E86-B44E-44DD-B2BA-BDB1A2B13BC0_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0CBB3B8B-479D-4D25-8279-DC65963FA674_symbolID"
+      "canOverride": false,
+      "overrideName": "6C636B04-5F88-4A3B-B721-6938ED4875FA_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "28F0F2BE-E1F9-4BC8-AF77-AD9FC62002D0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5731C9E7-DAF8-42D0-87EE-DC985E782028/44B4C711-18CC-4831-B885-BFB56FAC9D73/133BAAA4-AA76-4CBF-9521-74E83830EB78_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "536BB7F7-A657-4C5E-89F3-77A5E7E7B3A1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5731C9E7-DAF8-42D0-87EE-DC985E782028/44B4C711-18CC-4831-B885-BFB56FAC9D73_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "7740750B-061C-460A-B94A-0D78AF459D13_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6C636B04-5F88-4A3B-B721-6938ED4875FA_textStyle"
     }
   ],
   "presetDictionary": {

@@ -35,7 +35,11 @@
     "thickGridTimes": 2
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -68,18 +72,28 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "36D25BEF-E3D7-4E47-88A6-7E9928457344/20A8B1FF-5375-49AF-B2D2-1BD72E09F6CB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "DA4E5E9F-F26D-44F7-8818-1E9FEA389943_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "36D25BEF-E3D7-4E47-88A6-7E9928457344_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "DA4E5E9F-F26D-44F7-8818-1E9FEA389943_stringValue"
+      "canOverride": false,
+      "overrideName": "36D25BEF-E3D7-4E47-88A6-7E9928457344/20A8B1FF-5375-49AF-B2D2-1BD72E09F6CB/D8BE7E86-B44E-44DD-B2BA-BDB1A2B13BC0_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "DA4E5E9F-F26D-44F7-8818-1E9FEA389943_textStyle"
+      "overrideName": "DA4E5E9F-F26D-44F7-8818-1E9FEA389943_stringValue"
     }
   ],
   "presetDictionary": {
