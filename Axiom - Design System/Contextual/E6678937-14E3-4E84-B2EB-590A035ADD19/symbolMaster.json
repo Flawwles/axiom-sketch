@@ -42,7 +42,7 @@
     "minSize": 232
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,11 +75,11 @@
     },
     {
       "class": "oval",
-      "id": "4048EB23-EA5E-45CB-95C5-80C27B79D4A9"
+      "id": "EC4E9659-E249-4B31-8EEF-63044B0E3C42"
     },
     {
-      "class": "symbolInstance",
-      "id": "E48BD387-209A-4D4D-AEAE-CFA80A0BFB68"
+      "class": "shapeGroup",
+      "id": "375BE321-D01F-4A6B-BF9C-977F01A6FB96"
     },
     {
       "class": "text",
@@ -93,7 +93,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "5731C9E7-DAF8-42D0-87EE-DC985E782028/04E06BA7-4465-4CC2-B5FB-0B3D1BB57D79_layerStyle"
+      "overrideName": "EC4E9659-E249-4B31-8EEF-63044B0E3C42_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "7740750B-061C-460A-B94A-0D78AF459D13_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "375BE321-D01F-4A6B-BF9C-977F01A6FB96_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -113,11 +123,6 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "5731C9E7-DAF8-42D0-87EE-DC985E782028_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
       "overrideName": "7740750B-061C-460A-B94A-0D78AF459D13/20A8B1FF-5375-49AF-B2D2-1BD72E09F6CB/D8BE7E86-B44E-44DD-B2BA-BDB1A2B13BC0_layerStyle"
     },
     {
@@ -133,22 +138,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "5731C9E7-DAF8-42D0-87EE-DC985E782028/44B4C711-18CC-4831-B885-BFB56FAC9D73/133BAAA4-AA76-4CBF-9521-74E83830EB78_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
       "overrideName": "536BB7F7-A657-4C5E-89F3-77A5E7E7B3A1_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "5731C9E7-DAF8-42D0-87EE-DC985E782028/44B4C711-18CC-4831-B885-BFB56FAC9D73_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "7740750B-061C-460A-B94A-0D78AF459D13_symbolID"
     }
   ],
   "presetDictionary": {

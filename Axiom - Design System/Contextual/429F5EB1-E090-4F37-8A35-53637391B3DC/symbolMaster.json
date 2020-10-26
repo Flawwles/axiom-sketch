@@ -42,7 +42,7 @@
     "minSize": 232
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,11 +75,11 @@
     },
     {
       "class": "oval",
-      "id": "3EA8BBDD-F166-4903-B7F6-D1941D3F3367"
+      "id": "4B93F7DA-E7A0-41D4-BFD5-62BB35DAE5AF"
     },
     {
-      "class": "symbolInstance",
-      "id": "F5F65D08-46DE-4F16-804E-54E1F56BDEEF"
+      "class": "shapeGroup",
+      "id": "36A09DC2-08BB-4D4A-98C5-48955AA0B4D1"
     },
     {
       "class": "text",
@@ -93,7 +93,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "401C9F0C-669D-4CDD-A170-9D4272974525/DDC0E9B0-CF44-4578-8AD8-911291D702DE_symbolID"
+      "overrideName": "95AD3574-CF37-4D4C-8C5C-402E0D64CB67_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "4B93F7DA-E7A0-41D4-BFD5-62BB35DAE5AF_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "36A09DC2-08BB-4D4A-98C5-48955AA0B4D1_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -108,22 +118,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "401C9F0C-669D-4CDD-A170-9D4272974525/DDC0E9B0-CF44-4578-8AD8-911291D702DE/133BAAA4-AA76-4CBF-9521-74E83830EB78_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
       "overrideName": "95AD3574-CF37-4D4C-8C5C-402E0D64CB67/414970EC-D618-44BD-82E9-A0B14F662974_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "401C9F0C-669D-4CDD-A170-9D4272974525_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "401C9F0C-669D-4CDD-A170-9D4272974525/62C3B3FD-1532-41EF-8E8A-2645319E8978_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -139,11 +134,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
       "overrideName": "1EA98CAA-1B9C-4F2E-94EE-B15C0BC20645_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "95AD3574-CF37-4D4C-8C5C-402E0D64CB67_symbolID"
     }
   ],
   "presetDictionary": {
