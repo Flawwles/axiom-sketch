@@ -39,7 +39,7 @@
     "axis": 0,
     "layoutAnchor": 0,
     "maxSize": 0,
-    "minSize": 0
+    "minSize": 232
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -66,10 +66,6 @@
       "id": "036B6E3F-493E-4426-AB8A-9E30E51642D8"
     },
     {
-      "class": "text",
-      "id": "06F8FE0A-F09C-4D92-8893-CA253986C775"
-    },
-    {
       "class": "symbolInstance",
       "id": "E730B630-FB9F-4EE5-A914-07AB1D444E1E"
     },
@@ -78,8 +74,16 @@
       "id": "271481A3-B498-48C1-B93B-0F51D2710310"
     },
     {
+      "class": "oval",
+      "id": "3408B206-F537-45AA-8269-ADF1879040F8"
+    },
+    {
       "class": "symbolInstance",
-      "id": "18D03877-6705-4C63-80B7-6C6B93B3C72B"
+      "id": "9EB1F77D-4749-4A40-9271-1656FE4EE7CB"
+    },
+    {
+      "class": "text",
+      "id": "06F8FE0A-F09C-4D92-8893-CA253986C775"
     }
   ],
   "name": "Contextual/ContextMenu/2) Content/Medium/Text Option/Multiselect/Nested/Collapsed/Unchecked/Disabled",
@@ -88,18 +92,13 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "18D03877-6705-4C63-80B7-6C6B93B3C72B_symbolID"
+      "canOverride": true,
+      "overrideName": "9EB1F77D-4749-4A40-9271-1656FE4EE7CB_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "18D03877-6705-4C63-80B7-6C6B93B3C72B/62C3B3FD-1532-41EF-8E8A-2645319E8978_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "18D03877-6705-4C63-80B7-6C6B93B3C72B/DDC0E9B0-CF44-4578-8AD8-911291D702DE/133BAAA4-AA76-4CBF-9521-74E83830EB78_layerStyle"
+      "canOverride": true,
+      "overrideName": "3408B206-F537-45AA-8269-ADF1879040F8_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -110,11 +109,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
       "overrideName": "E730B630-FB9F-4EE5-A914-07AB1D444E1E/414970EC-D618-44BD-82E9-A0B14F662974_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "18D03877-6705-4C63-80B7-6C6B93B3C72B/DDC0E9B0-CF44-4578-8AD8-911291D702DE_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
