@@ -24,9 +24,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 118,
+    "width": 119,
     "x": 103,
     "y": 10
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 1,
+    "isEnabled": false,
+    "thickGridTimes": 10
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -36,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,12 +66,12 @@
       "id": "1910DC52-4101-423A-8300-C619FA8DACEE"
     },
     {
-      "class": "text",
-      "id": "95F5FC2F-A2B1-47BB-A3AB-7626C4BFE878"
-    },
-    {
       "class": "oval",
       "id": "436491CD-ED86-4F3F-B499-DE2BB21115B0"
+    },
+    {
+      "class": "text",
+      "id": "95F5FC2F-A2B1-47BB-A3AB-7626C4BFE878"
     }
   ],
   "name": "Lozenge/Status/Medium",
