@@ -28,6 +28,12 @@
     "x": -31,
     "y": -30
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 1,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
@@ -36,7 +42,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
