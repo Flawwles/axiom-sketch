@@ -174,9 +174,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9725490196078431,
-          "green": 0.9725490196078431,
-          "red": 0.9725490196078431
+          "blue": 1,
+          "green": 1,
+          "red": 1,
+          "swatchID": "400BEBBA-2165-49DC-B5AF-2CFCDEAB1C96"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -215,7 +216,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
